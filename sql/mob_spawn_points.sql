@@ -6,7 +6,7 @@ SET FOREIGN_KEY_CHECKS=0;
 DROP TABLE IF EXISTS `mob_spawn_points`;
 CREATE TABLE `mob_spawn_points` (
   `mobid` int(10) NOT NULL,
-  `spawnset` tinyint(3) DEFAULT 0,
+  `spawnslotid` int(10) unsigned NOT NULL DEFAULT '0',
   `mobname` varchar(24) DEFAULT NULL,
   `polutils_name` varchar(50) DEFAULT NULL,
   `groupid` int(10) unsigned NOT NULL DEFAULT '0',
