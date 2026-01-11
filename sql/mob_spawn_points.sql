@@ -54270,14 +54270,14 @@ INSERT INTO `mob_spawn_points` VALUES (17387972,0,'Hematic_Cyst','Hematic Cyst',
 -- Monastic Cavern (Zone 150)
 -- ------------------------------------------------------------
 
-INSERT INTO `mob_spawn_points` VALUES (17391617,0,'Orcish_Bowshooter','Orcish Bowshooter',1,-9.935,-6.373,-383.034,203);
-INSERT INTO `mob_spawn_points` VALUES (17391618,0,'Orcish_Footsoldier','Orcish Footsoldier',2,-9.621,-6.207,-380.968,231);
-INSERT INTO `mob_spawn_points` VALUES (17391619,0,'Orcish_Gladiator','Orcish Gladiator',3,-0.031,-8.594,-380.755,8);
-INSERT INTO `mob_spawn_points` VALUES (17391620,0,'Orcish_Trooper','Orcish Trooper',4,0.974,-8.523,-380.188,227);
-INSERT INTO `mob_spawn_points` VALUES (17391621,0,'Orcish_Bowshooter','Orcish Bowshooter',1,3.625,-9.252,-378.358,31);
-INSERT INTO `mob_spawn_points` VALUES (17391622,0,'Orcish_Footsoldier','Orcish Footsoldier',2,-16.358,-4.915,-383.09,250);
-INSERT INTO `mob_spawn_points` VALUES (17391623,0,'Orcish_Gladiator','Orcish Gladiator',3,3.74,-9.302,-378.126,37);
-INSERT INTO `mob_spawn_points` VALUES (17391624,0,'Orcish_Trooper','Orcish Trooper',4,-17.486,-4.65,-382.491,63);
+INSERT INTO `mob_spawn_points` VALUES (17391617,1,'Orcish_Bowshooter','Orcish Bowshooter',1,-9.935,-6.373,-383.034,203);
+INSERT INTO `mob_spawn_points` VALUES (17391618,1,'Orcish_Footsoldier','Orcish Footsoldier',2,-9.621,-6.207,-380.968,231);
+INSERT INTO `mob_spawn_points` VALUES (17391619,1,'Orcish_Gladiator','Orcish Gladiator',3,-0.031,-8.594,-380.755,8);
+INSERT INTO `mob_spawn_points` VALUES (17391620,1,'Orcish_Trooper','Orcish Trooper',4,0.974,-8.523,-380.188,227);
+INSERT INTO `mob_spawn_points` VALUES (17391621,2,'Orcish_Bowshooter','Orcish Bowshooter',1,3.625,-9.252,-378.358,31);
+INSERT INTO `mob_spawn_points` VALUES (17391622,2,'Orcish_Footsoldier','Orcish Footsoldier',2,-16.358,-4.915,-383.09,250);
+INSERT INTO `mob_spawn_points` VALUES (17391623,2,'Orcish_Gladiator','Orcish Gladiator',3,3.74,-9.302,-378.126,37);
+INSERT INTO `mob_spawn_points` VALUES (17391624,2,'Orcish_Trooper','Orcish Trooper',4,-17.486,-4.65,-382.491,63);
 INSERT INTO `mob_spawn_points` VALUES (17391625,0,'Orcish_Bowshooter','Orcish Bowshooter',1,-29.122,-1.231,-334.652,215);
 INSERT INTO `mob_spawn_points` VALUES (17391626,0,'Orcish_Footsoldier','Orcish Footsoldier',2,-38.894,-0.7,-331.111,189);
 INSERT INTO `mob_spawn_points` VALUES (17391627,0,'Orcish_Gladiator','Orcish Gladiator',3,-22.422,-2.093,-298.238,231);
@@ -60572,10 +60572,10 @@ INSERT INTO `mob_spawn_points` VALUES (17486034,0,'Huge_Spider','Huge Spider',7,
 INSERT INTO `mob_spawn_points` VALUES (17486035,0,'Huge_Spider','Huge Spider',7,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17486036,0,'Huge_Spider','Huge Spider',7,-120.738,-6.001,140.605,127);
 INSERT INTO `mob_spawn_points` VALUES (17486037,0,'Huge_Spider','Huge Spider',7,-132.819,-6.004,138.089,108);
-INSERT INTO `mob_spawn_points` VALUES (17486038,0,'Jelly','Jelly',9,-19.000,-5.000,174.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17486039,0,'Clipper','Clipper',13,-201.821,-6.071,75.180,19);
-INSERT INTO `mob_spawn_points` VALUES (17486040,0,'Clipper','Clipper',13,-212.000,-4.000,83.000,61);
-INSERT INTO `mob_spawn_points` VALUES (17486041,0,'Clipper','Clipper',13,-191.000,-5.000,80.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17486038,1,'Jelly','Jelly',9,-19.000,-5.000,174.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17486039,2,'Clipper','Clipper',13,-201.821,-6.071,75.180,19);
+INSERT INTO `mob_spawn_points` VALUES (17486040,3,'Clipper','Clipper',13,-212.000,-4.000,83.000,61);
+INSERT INTO `mob_spawn_points` VALUES (17486041,4,'Clipper','Clipper',13,-191.000,-5.000,80.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17486042,0,'Clipper','Clipper',13,-195.032,-5.991,89.752,127);
 INSERT INTO `mob_spawn_points` VALUES (17486043,0,'Clipper','Clipper',13,-216.851,-5.544,75.378,127);
 INSERT INTO `mob_spawn_points` VALUES (17486044,0,'Clipper','Clipper',13,-245.000,-5.000,75.000,11);
@@ -60583,12 +60583,12 @@ INSERT INTO `mob_spawn_points` VALUES (17486045,0,'Clipper','Clipper',13,-166.00
 INSERT INTO `mob_spawn_points` VALUES (17486046,0,'Clipper','Clipper',13,-240.811,-6.191,85.496,127);
 INSERT INTO `mob_spawn_points` VALUES (17486047,0,'Clipper','Clipper',13,-229.000,-6.279,82.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17486048,0,'Clipper','Clipper',13,-175.000,-5.000,109.000,64);
-INSERT INTO `mob_spawn_points` VALUES (17486049,0,'Greater_Pugil','Greater Pugil',12,-164.686,-5.602,124.045,105);
-INSERT INTO `mob_spawn_points` VALUES (17486050,0,'Greater_Pugil','Greater Pugil',12,-191.791,-5.482,89.284,120);
-INSERT INTO `mob_spawn_points` VALUES (17486051,0,'Greater_Pugil','Greater Pugil',12,-158.901,-6.187,116.927,136);
-INSERT INTO `mob_spawn_points` VALUES (17486052,0,'Greater_Pugil','Greater Pugil',12,-187.681,-5.193,95.037,125);
-INSERT INTO `mob_spawn_points` VALUES (17486053,0,'Greater_Pugil','Greater Pugil',12,-191.369,-5.858,77.290,188);
-INSERT INTO `mob_spawn_points` VALUES (17486054,0,'Greater_Pugil','Greater Pugil',12,-218.675,-5.487,83.573,134);
+INSERT INTO `mob_spawn_points` VALUES (17486049,1,'Greater_Pugil','Greater Pugil',12,-164.686,-5.602,124.045,105);
+INSERT INTO `mob_spawn_points` VALUES (17486050,1,'Greater_Pugil','Greater Pugil',12,-191.791,-5.482,89.284,120);
+INSERT INTO `mob_spawn_points` VALUES (17486051,1,'Greater_Pugil','Greater Pugil',12,-158.901,-6.187,116.927,136);
+INSERT INTO `mob_spawn_points` VALUES (17486052,2,'Greater_Pugil','Greater Pugil',12,-187.681,-5.193,95.037,125);
+INSERT INTO `mob_spawn_points` VALUES (17486053,3,'Greater_Pugil','Greater Pugil',12,-191.369,-5.858,77.290,188);
+INSERT INTO `mob_spawn_points` VALUES (17486054,4,'Greater_Pugil','Greater Pugil',12,-218.675,-5.487,83.573,134);
 INSERT INTO `mob_spawn_points` VALUES (17486055,0,'Greater_Pugil','Greater Pugil',12,-218.671,-5.795,72.519,125);
 INSERT INTO `mob_spawn_points` VALUES (17486056,0,'Greater_Pugil','Greater Pugil',12,-229.988,-5.000,90.353,167);
 INSERT INTO `mob_spawn_points` VALUES (17486057,0,'Greater_Pugil','Greater Pugil',12,-237.814,-5.995,90.202,30);
