@@ -50093,24 +50093,24 @@ INSERT INTO `mob_spawn_points` VALUES (17346693,0,'Fighting_Sheep','Fighting She
 INSERT INTO `mob_spawn_points` VALUES (17346694,0,'Fighting_Sheep','Fighting Sheep',22,78.769,-145.253,293.407,46);
 
 -- Dismemberment Brigade
-INSERT INTO `mob_spawn_points` VALUES (17346696,0,'Armsmaster_Dekbuk','Armsmaster Dekbuk',23,-400.000,94.000,-57.000,45);
-INSERT INTO `mob_spawn_points` VALUES (17346697,0,'Longarmed_Gottditt','Longarmed Gottditt',24,-392.000,94.000,-62.000,45);
-INSERT INTO `mob_spawn_points` VALUES (17346698,0,'Keeneyed_Aufwuf','Keeneyed Aufwuf',25,-393.000,94.000,-66.000,45);
-INSERT INTO `mob_spawn_points` VALUES (17346699,0,'Invulnerable_Mazzgozz','Invulnerable Mazzgozz',26,-400.000,94.000,-60.000,45);
-INSERT INTO `mob_spawn_points` VALUES (17346700,0,'Undefeatable_Sappdapp','Undefeatable Sappdapp',27,-401.000,94.000,-65.000,45);
-INSERT INTO `mob_spawn_points` VALUES (17346701,0,'Minds-eyed_Klugwug','Mind\'s-eyed Klugwug',28,-399.000,94.000,-68.000,45);
-INSERT INTO `mob_spawn_points` VALUES (17346703,0,'Armsmaster_Dekbuk','Armsmaster Dekbuk',23,-160.065,-26.009,122.970,45);
-INSERT INTO `mob_spawn_points` VALUES (17346704,0,'Longarmed_Gottditt','Longarmed Gottditt',24,-152.065,-26.009,117.970,45);
-INSERT INTO `mob_spawn_points` VALUES (17346705,0,'Keeneyed_Aufwuf','Keeneyed Aufwuf',25,-153.065,-26.009,113.970,45);
-INSERT INTO `mob_spawn_points` VALUES (17346706,0,'Invulnerable_Mazzgozz','Invulnerable Mazzgozz',26,-160.065,-26.009,119.970,45);
-INSERT INTO `mob_spawn_points` VALUES (17346707,0,'Undefeatable_Sappdapp','Undefeatable Sappdapp',27,-161.065,-26.009,114.970,45);
-INSERT INTO `mob_spawn_points` VALUES (17346708,0,'Minds-eyed_Klugwug','Mind\'s-eyed Klugwug',28,-159.065,-26.009,111.970,45);
-INSERT INTO `mob_spawn_points` VALUES (17346710,0,'Armsmaster_Dekbuk','Armsmaster Dekbuk',23,79.928,-146.026,302.804,45);
-INSERT INTO `mob_spawn_points` VALUES (17346711,0,'Longarmed_Gottditt','Longarmed Gottditt',24,87.928,-146.026,297.804,45);
-INSERT INTO `mob_spawn_points` VALUES (17346712,0,'Keeneyed_Aufwuf','Keeneyed Aufwuf',25,86.928,-146.026,293.804,45);
-INSERT INTO `mob_spawn_points` VALUES (17346713,0,'Invulnerable_Mazzgozz','Invulnerable Mazzgozz',26,79.928,-146.026,299.804,45);
-INSERT INTO `mob_spawn_points` VALUES (17346714,0,'Undefeatable_Sappdapp','Undefeatable Sappdapp',27,78.928,-146.026,294.804,45);
-INSERT INTO `mob_spawn_points` VALUES (17346715,0,'Minds-eyed_Klugwug','Mind\'s-eyed Klugwug',28,80.928,-146.026,291.804,45);
+INSERT INTO `mob_spawn_points` VALUES (17346696,0,'Armsmaster_Dekbuk','Armsmaster Dekbuk',23,-395.100,94.251,-66.500,46);
+INSERT INTO `mob_spawn_points` VALUES (17346697,0,'Longarmed_Gottditt','Longarmed Gottditt',24,-398.100,94.313,-68.000,46);
+INSERT INTO `mob_spawn_points` VALUES (17346698,0,'Keeneyed_Aufwuf','Keeneyed Aufwuf',25,-400.000,94.313,-63.500,46);
+INSERT INTO `mob_spawn_points` VALUES (17346699,0,'Invulnerable_Mazzgozz','Invulnerable Mazzgozz',26,-392.2,94.313,-65.349,46);
+INSERT INTO `mob_spawn_points` VALUES (17346700,0,'Undefeatable_Sappdapp','Undefeatable Sappdapp',27,-397.100,94.305,-62.000,46);
+INSERT INTO `mob_spawn_points` VALUES (17346701,0,'Minds-eyed_Klugwug','Mind\'s-eyed Klugwug',28,-394.100,94.313,-60.849,46);
+INSERT INTO `mob_spawn_points` VALUES (17346703,0,'Armsmaster_Dekbuk','Armsmaster Dekbuk',23,-155.165,-25.758,113.470,46);
+INSERT INTO `mob_spawn_points` VALUES (17346704,0,'Longarmed_Gottditt','Longarmed Gottditt',24,-158.165,-25.696,111.970,46);
+INSERT INTO `mob_spawn_points` VALUES (17346705,0,'Keeneyed_Aufwuf','Keeneyed Aufwuf',25,-160.065,-25.696,116.470,46);
+INSERT INTO `mob_spawn_points` VALUES (17346706,0,'Invulnerable_Mazzgozz','Invulnerable Mazzgozz',26,-152.265,-25.696,114.621,46);
+INSERT INTO `mob_spawn_points` VALUES (17346707,0,'Undefeatable_Sappdapp','Undefeatable Sappdapp',27,-157.165,-25.704,117.970,46);
+INSERT INTO `mob_spawn_points` VALUES (17346708,0,'Minds-eyed_Klugwug','Mind\'s-eyed Klugwug',28,-154.165,-25.696,119.121,46);
+INSERT INTO `mob_spawn_points` VALUES (17346710,0,'Armsmaster_Dekbuk','Armsmaster Dekbuk',23,84.828,-145.775,293.304,46);
+INSERT INTO `mob_spawn_points` VALUES (17346711,0,'Longarmed_Gottditt','Longarmed Gottditt',24,81.828,-145.713,291.804,46);
+INSERT INTO `mob_spawn_points` VALUES (17346712,0,'Keeneyed_Aufwuf','Keeneyed Aufwuf',25,79.928,-145.713,296.304,46);
+INSERT INTO `mob_spawn_points` VALUES (17346713,0,'Invulnerable_Mazzgozz','Invulnerable Mazzgozz',26,87.728,-145.713,294.455,46);
+INSERT INTO `mob_spawn_points` VALUES (17346714,0,'Undefeatable_Sappdapp','Undefeatable Sappdapp',27,82.828,-145.721,297.804,46);
+INSERT INTO `mob_spawn_points` VALUES (17346715,0,'Minds-eyed_Klugwug','Mind\'s-eyed Klugwug',28,85.828,-145.713,298.955,46);
 
 -- Horns of War
 INSERT INTO `mob_spawn_points` VALUES (17346717,0,'Chlevnik','Chlevnik',29,-396.153,94.703,-64.349,46);
