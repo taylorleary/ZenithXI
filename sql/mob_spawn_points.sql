@@ -52894,24 +52894,24 @@ INSERT INTO `mob_spawn_points` VALUES (17375362,0,'Medium_Box','Medium Box',27,1
 INSERT INTO `mob_spawn_points` VALUES (17375363,0,'Large_Box','Large Box',28,177.873,-63.759,175.816,192);
 
 -- Divine Punishers
-INSERT INTO `mob_spawn_points` VALUES (17375365,0,'Voo_Tolu_the_Ghostfist','Voo Tolu the Ghostfist',29,-135.000,56.000,-228.000,190);
-INSERT INTO `mob_spawn_points` VALUES (17375366,0,'Cuu_Doko_the_Blizzard','Cuu Doko the Blizzard',30,-134.000,56.000,-224.000,190);
-INSERT INTO `mob_spawn_points` VALUES (17375367,0,'Zuu_Xowu_the_Darksmoke','Zuu Xowu the Darksmoke',31,-133.500,56.000,-221.000,190);
-INSERT INTO `mob_spawn_points` VALUES (17375368,0,'Gii_Jaha_the_Raucous','Gii Jaha the Raucous',32,-141.000,56.000,-228.000,190);
-INSERT INTO `mob_spawn_points` VALUES (17375369,0,'Aa_Nawu_the_Thunderblade','Aa Nawu the Thunderblade',33,-142.000,56.000,-224.000,190);
-INSERT INTO `mob_spawn_points` VALUES (17375370,0,'Yoo_Mihi_the_Haze','Yoo Mihi the Haze',34,-143.000,56.000,-222.000,190);
-INSERT INTO `mob_spawn_points` VALUES (17375372,0,'Voo_Tolu_the_Ghostfist','Voo Tolu the Ghostfist',29,25.231,-4.000,-28.076,190);
-INSERT INTO `mob_spawn_points` VALUES (17375373,0,'Cuu_Doko_the_Blizzard','Cuu Doko the Blizzard',30,26.231,-4.000,-24.076,190);
-INSERT INTO `mob_spawn_points` VALUES (17375374,0,'Zuu_Xowu_the_Darksmoke','Zuu Xowu the Darksmoke',31,26.731,-4.000,-21.076,190);
-INSERT INTO `mob_spawn_points` VALUES (17375375,0,'Gii_Jaha_the_Raucous','Gii Jaha the Raucous',32,19.231,-4.000,-28.076,190);
-INSERT INTO `mob_spawn_points` VALUES (17375376,0,'Aa_Nawu_the_Thunderblade','Aa Nawu the Thunderblade',33,18.231,-4.000,-24.076,190);
-INSERT INTO `mob_spawn_points` VALUES (17375377,0,'Yoo_Mihi_the_Haze','Yoo Mihi the Haze',34,17.231,-4.000,-22.076,190);
-INSERT INTO `mob_spawn_points` VALUES (17375379,0,'Voo_Tolu_the_Ghostfist','Voo Tolu the Ghostfist',29,185.059,-64.000,171.999,190);
-INSERT INTO `mob_spawn_points` VALUES (17375380,0,'Cuu_Doko_the_Blizzard','Cuu Doko the Blizzard',30,186.059,-64.000,175.999,190);
-INSERT INTO `mob_spawn_points` VALUES (17375381,0,'Zuu_Xowu_the_Darksmoke','Zuu Xowu the Darksmoke',31,186.559,-64.000,178.999,190);
-INSERT INTO `mob_spawn_points` VALUES (17375382,0,'Gii_Jaha_the_Raucous','Gii Jaha the Raucous',32,179.059,-64.000,171.999,190);
-INSERT INTO `mob_spawn_points` VALUES (17375383,0,'Aa_Nawu_the_Thunderblade','Aa Nawu the Thunderblade',33,178.059,-64.000,175.999,190);
-INSERT INTO `mob_spawn_points` VALUES (17375384,0,'Yoo_Mihi_the_Haze','Yoo Mihi the Haze',34,177.059,-64.000,177.999,190);
+INSERT INTO `mob_spawn_points` VALUES (17375365,0,'Voo_Tolu_the_Ghostfist','Voo Tolu the Ghostfist',29,-135.96,56.144,-222.27,192);
+INSERT INTO `mob_spawn_points` VALUES (17375366,0,'Cuu_Doko_the_Blizzard','Cuu Doko the Blizzard',30,-135.96,56.144,-226.27,192);
+INSERT INTO `mob_spawn_points` VALUES (17375367,0,'Zuu_Xowu_the_Darksmoke','Zuu Xowu the Darksmoke',31,-141.96,56.144,-226.27,192);
+INSERT INTO `mob_spawn_points` VALUES (17375368,0,'Gii_Jaha_the_Raucous','Gii Jaha the Raucous',32,-138.96,56.043,-226.27,192);
+INSERT INTO `mob_spawn_points` VALUES (17375369,0,'Aa_Nawu_the_Thunderblade','Aa Nawu the Thunderblade',33,-138.96,56.043,-222.27,192);
+INSERT INTO `mob_spawn_points` VALUES (17375370,0,'Yoo_Mihi_the_Haze','Yoo Mihi the Haze',34,-141.96,56.144,-222.27,192);
+INSERT INTO `mob_spawn_points` VALUES (17375372,0,'Voo_Tolu_the_Ghostfist','Voo Tolu the Ghostfist',29,21.231,-4.000,-25.076,192);
+INSERT INTO `mob_spawn_points` VALUES (17375373,0,'Cuu_Doko_the_Blizzard','Cuu Doko the Blizzard',30,21.231,-4.000,-25.076,192);
+INSERT INTO `mob_spawn_points` VALUES (17375374,0,'Zuu_Xowu_the_Darksmoke','Zuu Xowu the Darksmoke',31,21.231,-4.000,-25.076,192);
+INSERT INTO `mob_spawn_points` VALUES (17375375,0,'Gii_Jaha_the_Raucous','Gii Jaha the Raucous',32,21.231,-4.000,-25.076,192);
+INSERT INTO `mob_spawn_points` VALUES (17375376,0,'Aa_Nawu_the_Thunderblade','Aa Nawu the Thunderblade',33,21.231,-4.000,-25.076,192);
+INSERT INTO `mob_spawn_points` VALUES (17375377,0,'Yoo_Mihi_the_Haze','Yoo Mihi the Haze',34,21.231,-4.000,-25.076,192);
+INSERT INTO `mob_spawn_points` VALUES (17375379,0,'Voo_Tolu_the_Ghostfist','Voo Tolu the Ghostfist',29,181.059,-64.000,174.999,192);
+INSERT INTO `mob_spawn_points` VALUES (17375380,0,'Cuu_Doko_the_Blizzard','Cuu Doko the Blizzard',30,181.059,-64.000,174.999,192);
+INSERT INTO `mob_spawn_points` VALUES (17375381,0,'Zuu_Xowu_the_Darksmoke','Zuu Xowu the Darksmoke',31,181.059,-64.000,174.999,192);
+INSERT INTO `mob_spawn_points` VALUES (17375382,0,'Gii_Jaha_the_Raucous','Gii Jaha the Raucous',32,181.059,-64.000,174.999,192);
+INSERT INTO `mob_spawn_points` VALUES (17375383,0,'Aa_Nawu_the_Thunderblade','Aa Nawu the Thunderblade',33,181.059,-64.000,174.999,192);
+INSERT INTO `mob_spawn_points` VALUES (17375384,0,'Yoo_Mihi_the_Haze','Yoo Mihi the Haze',34,181.059,-64.000,174.999,192);
 
 -- Early Bird Catches the Wyrm
 INSERT INTO `mob_spawn_points` VALUES (17375386,0,'Wyrm','Wyrm',35,-139.000,56.000,-225.000,194);
