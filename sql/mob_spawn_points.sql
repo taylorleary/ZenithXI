@@ -34860,7 +34860,7 @@ INSERT INTO `mob_spawn_points` VALUES (17199562,0,'Giant_Bat','Giant Bat',31,-80
 INSERT INTO `mob_spawn_points` VALUES (17199563,0,'Giant_Bat','Giant Bat',31,-798.674,-8.672,19.204,41);
 INSERT INTO `mob_spawn_points` VALUES (17199564,0,'Golden_Bat','Golden Bat',32,-810.440,-8.270,33.978,127);
 INSERT INTO `mob_spawn_points` VALUES (17199565,0,'Goblin_Digger','Goblin Digger',33,-250.989,0.629,-91.871,80);
-INSERT INTO `mob_spawn_points` VALUES (17199566,0,'Marchelute','Marchelute',34,-716.000,-10.000,66.000,188);
+INSERT INTO `mob_spawn_points` VALUES (17199566,0,'Marchelute','Marchelute',34,-720.005,-8.060,75.199,188);
 INSERT INTO `mob_spawn_points` VALUES (17199567,0,'Doman','Doman',35,-768.000,-4.000,197.000,91);
 INSERT INTO `mob_spawn_points` VALUES (17199568,0,'Onryo','Onryo',36,-767.000,-4.000,196.000,91);
 INSERT INTO `mob_spawn_points` VALUES (17199569,0,'Hobgoblin_Warrior','Hobgoblin Warrior',37,0.000,0.000,0.000,0);
@@ -56382,9 +56382,9 @@ INSERT INTO `mob_spawn_points` VALUES (17420625,0,'Magic_Jar','Magic Jar',24,-44
 INSERT INTO `mob_spawn_points` VALUES (17420626,0,'Jagd_Doll','Jagd Doll',32,-418.000,-111.000,-49.000,27);
 INSERT INTO `mob_spawn_points` VALUES (17420627,0,'Thunder_Elemental','Thunder Elemental',20,-486.591,-128.005,70.810,127);
 INSERT INTO `mob_spawn_points` VALUES (17420628,0,'Light_Elemental','Light Elemental',21,-471.704,-128.233,82.256,127);
-INSERT INTO `mob_spawn_points` VALUES (17420629,0,'Gerwitzs_Scythe','Gerwitz\'s Scythe',34,85.000,-79.000,79.000,86);
-INSERT INTO `mob_spawn_points` VALUES (17420630,0,'Scythe_Victim','Scythe Victim',35,84.000,-79.000,80.000,78);
-INSERT INTO `mob_spawn_points` VALUES (17420631,0,'Scythe_Victim','Scythe Victim',36,86.000,-79.000,78.000,101);
+INSERT INTO `mob_spawn_points` VALUES (17420629,0,'Gerwitzs_Scythe','Gerwitz\'s Scythe',34,86.047,-79.555,80.074,86);
+INSERT INTO `mob_spawn_points` VALUES (17420630,0,'Scythe_Victim_war','Scythe Victim_war',35,83.791,-79.424,79.464,78);
+INSERT INTO `mob_spawn_points` VALUES (17420631,0,'Scythe_Victim_blm','Scythe Victim_blm',36,88.373,-79.721,79.328,101);
 
 -- ------------------------------------------------------------
 -- Upper Delkfutt's Tower (Zone 158)
