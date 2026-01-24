@@ -58797,10 +58797,10 @@ INSERT INTO `mob_spawn_points` VALUES (17453278,0,'Aldo','Aldo',27,0.000,0.000,0
 -- Ranguemont Pass (Zone 166)
 -- ------------------------------------------------------------
 
-INSERT INTO `mob_spawn_points` VALUES (17457153,0,'Wind_Bats','Wind Bats',1,-193.830,3.712,-261.749,92);
+INSERT INTO `mob_spawn_points` VALUES (17457153,1,'Wind_Bats','Wind Bats',1,-193.830,3.712,-261.749,92);
 INSERT INTO `mob_spawn_points` VALUES (17457154,0,'Wind_Bats','Wind Bats',1,-217.222,3.358,-241.211,127);
 INSERT INTO `mob_spawn_points` VALUES (17457155,0,'Blade_Bat','Blade Bat',2,-180.128,3.450,-265.574,44);
-INSERT INTO `mob_spawn_points` VALUES (17457156,0,'Blade_Bat','Blade Bat',2,-151.331,4.137,-256.681,127);
+INSERT INTO `mob_spawn_points` VALUES (17457156,1,'Blade_Bat','Blade Bat',2,-151.331,4.137,-256.681,127);
 INSERT INTO `mob_spawn_points` VALUES (17457157,0,'Oil_Slick','Oil Slick',3,-171.489,2.843,-261.196,120);
 INSERT INTO `mob_spawn_points` VALUES (17457158,0,'Oil_Slick','Oil Slick',3,-220.195,3.568,-232.002,127);
 INSERT INTO `mob_spawn_points` VALUES (17457159,0,'Goblin_Thug','Goblin Thug',4,-169.638,3.938,-223.796,127);
@@ -58815,24 +58815,24 @@ INSERT INTO `mob_spawn_points` VALUES (17457167,0,'Goblin_Weaver','Goblin Weaver
 INSERT INTO `mob_spawn_points` VALUES (17457168,0,'Goblin_Weaver','Goblin Weaver',5,-179.000,5.000,-182.000,2);
 INSERT INTO `mob_spawn_points` VALUES (17457169,0,'Blade_Bat','Blade Bat',2,-172.000,5.000,-191.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17457170,0,'Blade_Bat','Blade Bat',2,-186.000,5.000,-166.000,66);
-INSERT INTO `mob_spawn_points` VALUES (17457171,0,'Goblin_Mugger','Goblin Mugger',6,-209.311,2.998,-149.195,5);
-INSERT INTO `mob_spawn_points` VALUES (17457172,0,'Goblin_Leecher','Goblin Leecher',7,-209.388,4.470,-144.834,127);
-INSERT INTO `mob_spawn_points` VALUES (17457173,0,'Goblin_Gambler','Goblin Gambler',8,-207.632,3.068,-134.052,9);
-INSERT INTO `mob_spawn_points` VALUES (17457174,0,'Goblin_Mugger','Goblin Mugger',6,-197.619,4.469,-143.783,192);
-INSERT INTO `mob_spawn_points` VALUES (17457175,0,'Goblin_Leecher','Goblin Leecher',7,-190.599,4.586,-143.857,128);
-INSERT INTO `mob_spawn_points` VALUES (17457176,0,'Goblin_Gambler','Goblin Gambler',8,-187.556,3.383,-148.428,127);
+INSERT INTO `mob_spawn_points` VALUES (17457171,2,'Goblin_Mugger','Goblin Mugger',6,-209.311,2.998,-149.195,5);
+INSERT INTO `mob_spawn_points` VALUES (17457172,2,'Goblin_Leecher','Goblin Leecher',7,-209.388,4.470,-144.834,127);
+INSERT INTO `mob_spawn_points` VALUES (17457173,3,'Goblin_Gambler','Goblin Gambler',8,-207.632,3.068,-134.052,9);
+INSERT INTO `mob_spawn_points` VALUES (17457174,3,'Goblin_Mugger','Goblin Mugger',6,-197.619,4.469,-143.783,192);
+INSERT INTO `mob_spawn_points` VALUES (17457175,4,'Goblin_Leecher','Goblin Leecher',7,-190.599,4.586,-143.857,128);
+INSERT INTO `mob_spawn_points` VALUES (17457176,4,'Goblin_Gambler','Goblin Gambler',8,-187.556,3.383,-148.428,127);
 INSERT INTO `mob_spawn_points` VALUES (17457177,0,'Seeker_Bats','Seeker Bats',9,-219.000,4.000,-120.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17457178,0,'Seeker_Bats','Seeker Bats',9,-189.958,4.596,-144.100,127);
 INSERT INTO `mob_spawn_points` VALUES (17457179,0,'Seeker_Bats','Seeker Bats',9,-277.461,3.449,-138.721,127);
 INSERT INTO `mob_spawn_points` VALUES (17457180,0,'Seeker_Bats','Seeker Bats',9,-254.480,4.118,-140.249,127);
 INSERT INTO `mob_spawn_points` VALUES (17457181,0,'Seeker_Bats','Seeker Bats',9,-275.537,2.603,-143.879,127);
 INSERT INTO `mob_spawn_points` VALUES (17457182,0,'Ooze','Ooze',10,-280.167,3.502,-140.934,127);
-INSERT INTO `mob_spawn_points` VALUES (17457183,0,'Goblin_Mugger','Goblin Mugger',6,-290.751,2.285,-158.577,18);
-INSERT INTO `mob_spawn_points` VALUES (17457184,0,'Goblin_Leecher','Goblin Leecher',7,-298.000,4.000,-173.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17457185,0,'Goblin_Gambler','Goblin Gambler',8,-296.000,4.000,-153.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17457186,0,'Goblin_Mugger','Goblin Mugger',6,-290.390,3.454,-175.201,154);
-INSERT INTO `mob_spawn_points` VALUES (17457187,0,'Goblin_Leecher','Goblin Leecher',7,-301.000,5.000,-162.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17457188,0,'Goblin_Gambler','Goblin Gambler',8,-295.578,3.369,-151.104,133);
+INSERT INTO `mob_spawn_points` VALUES (17457183,5,'Goblin_Mugger','Goblin Mugger',6,-290.751,2.285,-158.577,18);
+INSERT INTO `mob_spawn_points` VALUES (17457184,5,'Goblin_Leecher','Goblin Leecher',7,-298.000,4.000,-173.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17457185,6,'Goblin_Gambler','Goblin Gambler',8,-296.000,4.000,-153.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17457186,6,'Goblin_Mugger','Goblin Mugger',6,-290.390,3.454,-175.201,154);
+INSERT INTO `mob_spawn_points` VALUES (17457187,7,'Goblin_Leecher','Goblin Leecher',7,-301.000,5.000,-162.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17457188,7,'Goblin_Gambler','Goblin Gambler',8,-295.578,3.369,-151.104,133);
 INSERT INTO `mob_spawn_points` VALUES (17457189,0,'Seeker_Bats','Seeker Bats',9,-296.000,4.000,-179.000,67);
 INSERT INTO `mob_spawn_points` VALUES (17457190,0,'Seeker_Bats','Seeker Bats',9,-292.000,3.000,-145.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17457191,0,'Goblin_Mugger','Goblin Mugger',6,-249.641,5.000,-174.069,67);
@@ -58864,9 +58864,9 @@ INSERT INTO `mob_spawn_points` VALUES (17457216,0,'Taisaijin','Taisaijin',15,-15
 INSERT INTO `mob_spawn_points` VALUES (17457217,0,'Goblin_Mugger','Goblin Mugger',6,61.364,12.520,-108.375,127);
 INSERT INTO `mob_spawn_points` VALUES (17457218,0,'Goblin_Leecher','Goblin Leecher',7,56.328,12.498,-110.328,222);
 INSERT INTO `mob_spawn_points` VALUES (17457219,0,'Goblin_Gambler','Goblin Gambler',8,60.619,14.360,-129.575,252);
-INSERT INTO `mob_spawn_points` VALUES (17457220,0,'Goblin_Mugger','Goblin Mugger',6,46.000,15.000,-139.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17457221,0,'Goblin_Leecher','Goblin Leecher',7,59.122,14.343,-131.304,94);
-INSERT INTO `mob_spawn_points` VALUES (17457222,0,'Goblin_Gambler','Goblin Gambler',8,59.000,13.000,-151.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17457220,8,'Goblin_Mugger','Goblin Mugger',6,46.000,15.000,-139.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17457221,8,'Goblin_Leecher','Goblin Leecher',7,59.122,14.343,-131.304,94);
+INSERT INTO `mob_spawn_points` VALUES (17457222,8,'Goblin_Gambler','Goblin Gambler',8,59.000,13.000,-151.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17457223,0,'Stirge','Stirge',12,27.241,11.781,-135.749,127);
 INSERT INTO `mob_spawn_points` VALUES (17457224,0,'Stirge','Stirge',12,95.365,9.704,-94.921,127);
 INSERT INTO `mob_spawn_points` VALUES (17457225,0,'Giant_Scorpion','Giant Scorpion',16,100.539,4.808,-84.262,5);
