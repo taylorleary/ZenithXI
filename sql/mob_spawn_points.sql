@@ -69708,7 +69708,7 @@ INSERT INTO `mob_spawn_points` VALUES (17613145,0,'Arcus_Blades','Arcus Blades',
 -- Ifrit's Cauldron (Zone 205)
 -- ------------------------------------------------------------
 
-INSERT INTO `mob_spawn_points` VALUES (17616897,0,'Salamander','Salamander',1,64,66,171.260,0.042,-25.204,225);
+INSERT INTO `mob_spawn_points` VALUES (17616897,0,'Salamander','Salamander',1,64,66,168.791,0.900,-19.828,7);
 INSERT INTO `mob_spawn_points` VALUES (17616898,0,'Magma','Magma',2,65,65,173.160,-0.900,-26.986,185);
 INSERT INTO `mob_spawn_points` VALUES (17616899,0,'Volcanic_Gas','Volcanic Gas',3,62,68,37.842,3.999,-276.772,127);
 INSERT INTO `mob_spawn_points` VALUES (17616900,0,'Old_Opo-opo','Old Opo-opo',4,61,65,45.000,3.724,-288.000,127);
@@ -69958,7 +69958,7 @@ INSERT INTO `mob_spawn_points` VALUES (17617143,0,'Volcanic_Bomb','Volcanic Bomb
 INSERT INTO `mob_spawn_points` VALUES (17617144,0,'Volcanic_Bomb','Volcanic Bomb',18,71,78,-247.832,39.794,81.815,29);
 INSERT INTO `mob_spawn_points` VALUES (17617145,0,'Ash_Lizard','Ash Lizard',20,73,76,-252.651,40.613,118.465,108);
 INSERT INTO `mob_spawn_points` VALUES (17617146,0,'Ash_Lizard','Ash Lizard',20,73,76,-248.300,39.863,120.906,100);
-INSERT INTO `mob_spawn_points` VALUES (17617147,0,'Ash_Dragon','Ash Dragon',23,85,85,-280.018,39.995,120.030,121);
+INSERT INTO `mob_spawn_points` VALUES (17617147,0,'Ash_Dragon','Ash Dragon',23,82,82,-280.018,39.995,120.030,121);
 INSERT INTO `mob_spawn_points` VALUES (17617148,0,'Volcanic_Bomb','Volcanic Bomb',18,71,78,-286.018,39.995,124.030,34);
 INSERT INTO `mob_spawn_points` VALUES (17617149,0,'Volcanic_Bomb','Volcanic Bomb',18,71,78,-286.096,39.958,124.192,127);
 INSERT INTO `mob_spawn_points` VALUES (17617150,0,'Volcanic_Bomb','Volcanic Bomb',18,71,78,-276.073,39.785,123.248,21);
@@ -71190,7 +71190,7 @@ INSERT INTO `mob_spawn_points` VALUES (17645574,0,'Labyrinth_Lizard','Labyrinth 
 INSERT INTO `mob_spawn_points` VALUES (17645575,0,'Labyrinth_Lizard','Labyrinth Lizard',4,46,49,-82.130,-10.626,-186.347,127);
 INSERT INTO `mob_spawn_points` VALUES (17645576,0,'Labyrinth_Leech','Labyrinth Leech',5,45,48,-77.606,-10.830,-162.111,63);
 INSERT INTO `mob_spawn_points` VALUES (17645577,0,'Labyrinth_Leech','Labyrinth Leech',5,45,48,-66.000,-11.391,-180.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17645578,0,'Bune','Bune',6,81,83,-72.000,-10.000,-170.000,119);
+INSERT INTO `mob_spawn_points` VALUES (17645578,0,'Bune','Bune',6,83,83,-72.000,-10.000,-170.000,119);
 INSERT INTO `mob_spawn_points` VALUES (17645579,0,'Goblin_Poacher','Goblin Poacher',2,46,49,-40.559,-11.375,-168.806,127);
 INSERT INTO `mob_spawn_points` VALUES (17645580,0,'Labyrinth_Lizard','Labyrinth Lizard',4,46,49,8.870,-10.025,-161.612,30);
 INSERT INTO `mob_spawn_points` VALUES (17645581,0,'Labyrinth_Lizard','Labyrinth Lizard',4,46,49,-3.637,-10.405,-162.565,112);
