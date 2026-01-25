@@ -1,5 +1,5 @@
 -----------------------------------
--- Freezebite
+-- Frostbite
 -- Description: Delivers an Ice elemental attack.
 -- Type: Magical
 -- Utsusemi/Blink absorb: 1 shadow

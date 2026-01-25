@@ -2770,21 +2770,21 @@ INSERT INTO `mob_spawn_points` VALUES (16830526,0,'Fantoccini_Avatar','Fantoccin
 INSERT INTO `mob_spawn_points` VALUES (16830527,0,'Fantoccini_Automaton','Fantoccini Automaton',15,49,49,501.054,-118.864,5.299,63);
 
 -- Automaton Assault
-INSERT INTO `mob_spawn_points` VALUES (16830529,0,'Hume_Automaton','Hume Automaton',16,60,60,-462.139,119.625,-91.037,96);
-INSERT INTO `mob_spawn_points` VALUES (16830530,0,'Elvaan_Automaton','Elvaan Automaton',17,60,60,-469.964,119.625,-99.018,239);
-INSERT INTO `mob_spawn_points` VALUES (16830531,0,'Tarutaru_Automaton','Tarutaru Automaton',18,60,60,-460.115,119.625,-66.674,61);
-INSERT INTO `mob_spawn_points` VALUES (16830532,0,'Mithran_Automaton','Mithran Automaton',19,60,60,-459.948,119.525,-70.782,191);
-INSERT INTO `mob_spawn_points` VALUES (16830533,0,'Galkan_Automaton','Galkan Automaton',20,60,60,-459.356,119.829,1.849,54);
-INSERT INTO `mob_spawn_points` VALUES (16830535,0,'Hume_Automaton','Hume Automaton',16,60,60,17.843,-0.375,-91.100,96);
-INSERT INTO `mob_spawn_points` VALUES (16830536,0,'Elvaan_Automaton','Elvaan Automaton',17,60,60,10.018,-0.375,-99.081,239);
-INSERT INTO `mob_spawn_points` VALUES (16830537,0,'Tarutaru_Automaton','Tarutaru Automaton',18,60,60,19.867,-0.375,-66.737,61);
-INSERT INTO `mob_spawn_points` VALUES (16830538,0,'Mithran_Automaton','Mithran Automaton',19,60,60,20.034,-0.475,-70.845,191);
-INSERT INTO `mob_spawn_points` VALUES (16830539,0,'Galkan_Automaton','Galkan Automaton',20,60,60,20.626,-0.171,1.786,54);
-INSERT INTO `mob_spawn_points` VALUES (16830541,0,'Hume_Automaton','Hume Automaton',16,60,60,497.812,-120.375,-91.096,96);
-INSERT INTO `mob_spawn_points` VALUES (16830542,0,'Elvaan_Automaton','Elvaan Automaton',17,60,60,489.987,-120.375,-99.077,239);
-INSERT INTO `mob_spawn_points` VALUES (16830543,0,'Tarutaru_Automaton','Tarutaru Automaton',18,60,60,499.836,-120.375,-66.733,61);
-INSERT INTO `mob_spawn_points` VALUES (16830544,0,'Mithran_Automaton','Mithran Automaton',19,60,60,500.003,-120.475,-70.841,191);
-INSERT INTO `mob_spawn_points` VALUES (16830545,0,'Galkan_Automaton','Galkan Automaton',20,60,60,500.595,-120.171,1.790,54);
+INSERT INTO `mob_spawn_points` VALUES (16830529,0,'Hume_Automaton','Hume Automaton',16,62,62,-466,121.704,26,64);
+INSERT INTO `mob_spawn_points` VALUES (16830530,0,'Elvaan_Automaton','Elvaan Automaton',17,62,62,-466,121.704,26,64);
+INSERT INTO `mob_spawn_points` VALUES (16830531,0,'Tarutaru_Automaton','Tarutaru Automaton',18,62,62,-462,121.637,26,64);
+INSERT INTO `mob_spawn_points` VALUES (16830532,0,'Mithran_Automaton','Mithran Automaton',19,62,62,-458,121.637,26,64);
+INSERT INTO `mob_spawn_points` VALUES (16830533,0,'Galkan_Automaton','Galkan Automaton',20,62,62,-454,121.704,26,64);
+INSERT INTO `mob_spawn_points` VALUES (16830535,0,'Hume_Automaton','Hume Automaton',16,62,62,14.138,1.704,22.883,64);
+INSERT INTO `mob_spawn_points` VALUES (16830536,0,'Elvaan_Automaton','Elvaan Automaton',17,62,62,14.138,1.704,22.883,64);
+INSERT INTO `mob_spawn_points` VALUES (16830537,0,'Tarutaru_Automaton','Tarutaru Automaton',18,62,62,18.138,1.637,22.883,64);
+INSERT INTO `mob_spawn_points` VALUES (16830538,0,'Mithran_Automaton','Mithran Automaton',19,62,62,22.138,1.637,22.883,64);
+INSERT INTO `mob_spawn_points` VALUES (16830539,0,'Galkan_Automaton','Galkan Automaton',20,62,62,26.138,1.704,22.883,64);
+INSERT INTO `mob_spawn_points` VALUES (16830541,0,'Hume_Automaton','Hume Automaton',16,62,62,494.362,-118.296,22.365,64);
+INSERT INTO `mob_spawn_points` VALUES (16830542,0,'Elvaan_Automaton','Elvaan Automaton',17,62,62,494.362,-118.296,22.365,64);
+INSERT INTO `mob_spawn_points` VALUES (16830543,0,'Tarutaru_Automaton','Tarutaru Automaton',18,62,62,498.362,-118.363,22.365,64);
+INSERT INTO `mob_spawn_points` VALUES (16830544,0,'Mithran_Automaton','Mithran Automaton',19,62,62,502.362,-118.363,22.365,64);
+INSERT INTO `mob_spawn_points` VALUES (16830545,0,'Galkan_Automaton','Galkan Automaton',20,62,62,506.362,-118.296,22.365,64);
 
 -- The Mobline Comedy
 INSERT INTO `mob_spawn_points` VALUES (16830546,0,'Buggesy','Buggesy',21,0,0,0.000,0.000,0.000,0);
