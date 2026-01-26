@@ -16494,7 +16494,7 @@ INSERT INTO `mob_spawn_points` VALUES (17068440,0,'Pit_Monster','Pit Monster',1,
 -- Alzadaal Undersea Ruins (Zone 72)
 -- ------------------------------------------------------------
 
-INSERT INTO `mob_spawn_points` VALUES (17072129,0,'Nepionic_Soulflayer','Nepionic Soulflayer',1,60,60,-526.000,-0.449,646.000,183);
+INSERT INTO `mob_spawn_points` VALUES (17072129,0,'Nepionic_Soulflayer','Nepionic Soulflayer',1,66,66,-527.222,-0.050,648.291,183);
 INSERT INTO `mob_spawn_points` VALUES (17072130,0,'Qiqirn_Poulterer','Qiqirn Poulterer',2,76,78,103.860,-0.486,145.245,1);
 INSERT INTO `mob_spawn_points` VALUES (17072131,0,'Qiqirn_Goldsmith','Qiqirn Goldsmith',3,76,78,94.937,-0.441,135.866,245);
 INSERT INTO `mob_spawn_points` VALUES (17072132,0,'Qiqirn_Mine','Qiqirn Mine',4,75,75,0.000,0.000,0.000,0);
