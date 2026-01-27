@@ -42534,7 +42534,7 @@ INSERT INTO `mob_spawn_points` VALUES (17264942,0,'Yagudo_Theologist','Yagudo Th
 INSERT INTO `mob_spawn_points` VALUES (17264943,0,'Yagudo_Piper','Yagudo Piper',25,16,20,584.146,-23.986,129.662,125);
 INSERT INTO `mob_spawn_points` VALUES (17264944,0,'Yagudo_Priest','Yagudo Priest',26,21,25,632.632,-23.354,71.671,42);
 INSERT INTO `mob_spawn_points` VALUES (17264945,0,'Yagudo_Persecutor','Yagudo Persecutor',27,16,20,598.668,-25.077,167.133,63);
-INSERT INTO `mob_spawn_points` VALUES (17264946,0,'Coo_Keja_the_Unseen','Coo Keja the Unseen',36,37,40,684.000,-23.000,6.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17264946,0,'Coo_Keja_the_Unseen','Coo Keja the Unseen',36,36,37,684.000,-23.000,6.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17264947,0,'Yagudo_Votary','Yagudo Votary',78,21,25,618.083,-32.017,192.547,213);
 INSERT INTO `mob_spawn_points` VALUES (17264948,0,'Yagudo_Theologist','Yagudo Theologist',79,21,25,617.908,-31.896,190.706,217);
 INSERT INTO `mob_spawn_points` VALUES (17264949,0,'Wandering_Sapling','Wandering Sapling',1,13,16,547.003,-42.030,347.868,102);
