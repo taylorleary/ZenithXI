@@ -36387,7 +36387,7 @@ INSERT INTO `mob_spawn_points` VALUES (17211844,0,'Goblin_Gambler','Goblin Gambl
 INSERT INTO `mob_spawn_points` VALUES (17211845,0,'Goblin_Leecher','Goblin Leecher',31,21,23,-485.323,98.103,416.005,127);
 INSERT INTO `mob_spawn_points` VALUES (17211846,0,'Goblin_Gambler','Goblin Gambler',32,21,23,-390.051,97.756,437.450,4);
 INSERT INTO `mob_spawn_points` VALUES (17211847,0,'Goblin_Digger','Goblin Digger',33,5,8,197.132,-40.437,501.941,81);
-INSERT INTO `mob_spawn_points` VALUES (17211848,0,'Gambilox_Wanderling','Gambilox Wanderling',34,53,53,-230.000,98.000,440.000,0);
+INSERT INTO `mob_spawn_points` VALUES (17211848,0,'Gambilox_Wanderling','Gambilox Wanderling',34,53,53,-220.962,98.051,440.458,0);
 
 -- Garrison
 INSERT INTO `mob_spawn_points` VALUES (17211849,0,'Old_Quadav','Old Quadav',35,20,25,-560.733,39.555,71.004,106);
@@ -40036,7 +40036,7 @@ INSERT INTO `mob_spawn_points` VALUES (17244519,0,'Flesh_Eater','Flesh Eater',13
 INSERT INTO `mob_spawn_points` VALUES (17244520,0,'Doom_Scorpion','Doom Scorpion',35,44,47,-71.603,-15.605,57.610,127);
 INSERT INTO `mob_spawn_points` VALUES (17244521,0,'Doom_Scorpion','Doom Scorpion',35,44,47,-269.405,-0.099,-6.951,94);
 INSERT INTO `mob_spawn_points` VALUES (17244522,0,'Goblin_Digger','Goblin Digger',36,45,49,-211.184,7.776,-136.339,127);
-INSERT INTO `mob_spawn_points` VALUES (17244523,0,'Decurio_I-III','Decurio I-III',37,55,55,111.000,-7.000,-75.000,173);
+INSERT INTO `mob_spawn_points` VALUES (17244523,0,'Decurio_I-III','Decurio I-III',37,47,47,112.012,-8.553,-72.767,173);
 INSERT INTO `mob_spawn_points` VALUES (17244524,0,'Tsuchigumo','Tsuchigumo',38,42,42,45.000,-8.000,404.000,33);
 INSERT INTO `mob_spawn_points` VALUES (17244525,0,'Tsuchigumo','Tsuchigumo',38,42,42,46.000,-8.000,404.000,33);
 INSERT INTO `mob_spawn_points` VALUES (17244526,0,'Hobgoblin_Warrior','Hobgoblin Warrior',39,50,55,0.000,0.000,0.000,0);
@@ -68958,7 +68958,7 @@ INSERT INTO `mob_spawn_points` VALUES (17596529,0,'Fallen_Officer','Fallen Offic
 INSERT INTO `mob_spawn_points` VALUES (17596530,0,'Fallen_Officer','Fallen Officer',46,52,55,19.000,2.000,261.000,54);
 INSERT INTO `mob_spawn_points` VALUES (17596531,0,'Fallen_Officer','Fallen Officer',22,52,55,19.000,-0.032,310.000,72);
 INSERT INTO `mob_spawn_points` VALUES (17596532,0,'Fallen_Officer','Fallen Officer',22,52,55,0.500,-0.012,300.000,2);
-INSERT INTO `mob_spawn_points` VALUES (17596533,0,'Chandelier','Chandelier',23,63,63,19.000,1.000,325.000,10);
+INSERT INTO `mob_spawn_points` VALUES (17596533,0,'Chandelier','Chandelier',23,63,63,19.000,1.000,325.000,67);
 INSERT INTO `mob_spawn_points` VALUES (17596534,0,'Funnel_Bats','Funnel Bats',36,51,55,-53.542,6.523,302.549,216);
 INSERT INTO `mob_spawn_points` VALUES (17596535,0,'Funnel_Bats','Funnel Bats',36,51,55,-56.540,8.283,295.116,201);
 INSERT INTO `mob_spawn_points` VALUES (17596536,0,'Fetid_Flesh','Fetid Flesh',16,54,56,-83.768,6.232,298.557,115);
