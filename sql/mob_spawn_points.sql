@@ -53782,15 +53782,15 @@ INSERT INTO `mob_spawn_points` VALUES (17379787,0,'Nickel_Quadav_NM','Nickel Qua
 -- Qulun Dome (Zone 148)
 -- ------------------------------------------------------------
 
-INSERT INTO `mob_spawn_points` VALUES (17383425,0,'Ancient_Quadav','Ancient Quadav',1,69,72,262.000,40.000,85.000,124);
-INSERT INTO `mob_spawn_points` VALUES (17383426,0,'Darksteel_Quadav','Darksteel Quadav',2,69,72,291.882,39.528,22.795,127);
-INSERT INTO `mob_spawn_points` VALUES (17383427,0,'Platinum_Quadav','Platinum Quadav',3,69,72,306.111,39.603,16.437,30);
-INSERT INTO `mob_spawn_points` VALUES (17383428,0,'Sapphire_Quadav','Sapphire Quadav',4,69,72,297.294,39.675,15.086,223);
-INSERT INTO `mob_spawn_points` VALUES (17383429,0,'Ancient_Quadav','Ancient Quadav',1,69,72,296.000,40.000,89.000,44);
-INSERT INTO `mob_spawn_points` VALUES (17383430,0,'Darksteel_Quadav','Darksteel Quadav',2,69,72,298.000,40.000,19.000,25);
-INSERT INTO `mob_spawn_points` VALUES (17383431,0,'Platinum_Quadav','Platinum Quadav',3,69,72,289.000,43.000,79.000,25);
-INSERT INTO `mob_spawn_points` VALUES (17383432,0,'Sapphire_Quadav','Sapphire Quadav',4,69,72,306.567,39.765,21.833,255);
-INSERT INTO `mob_spawn_points` VALUES (17383433,0,'Ruby_Quadav','Ruby Quadav',5,72,74,295.000,40.000,13.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17383425,1,'Ancient_Quadav','Ancient Quadav',1,69,72,262.000,40.000,85.000,124);
+INSERT INTO `mob_spawn_points` VALUES (17383426,1,'Darksteel_Quadav','Darksteel Quadav',2,69,72,291.882,39.528,22.795,127);
+INSERT INTO `mob_spawn_points` VALUES (17383427,1,'Platinum_Quadav','Platinum Quadav',3,69,72,306.111,39.603,16.437,30);
+INSERT INTO `mob_spawn_points` VALUES (17383428,2,'Sapphire_Quadav','Sapphire Quadav',4,69,72,297.294,39.675,15.086,223);
+INSERT INTO `mob_spawn_points` VALUES (17383429,2,'Ancient_Quadav','Ancient Quadav',1,69,72,296.000,40.000,89.000,44);
+INSERT INTO `mob_spawn_points` VALUES (17383430,2,'Darksteel_Quadav','Darksteel Quadav',2,69,72,298.000,40.000,19.000,25);
+INSERT INTO `mob_spawn_points` VALUES (17383431,3,'Platinum_Quadav','Platinum Quadav',3,69,72,289.000,43.000,79.000,25);
+INSERT INTO `mob_spawn_points` VALUES (17383432,3,'Sapphire_Quadav','Sapphire Quadav',4,69,72,306.567,39.765,21.833,255);
+INSERT INTO `mob_spawn_points` VALUES (17383433,3,'Ruby_Quadav','Ruby Quadav',5,72,74,295.000,40.000,13.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17383434,0,'Darksteel_Quadav','Darksteel Quadav',2,69,72,288.751,41.128,70.520,127);
 INSERT INTO `mob_spawn_points` VALUES (17383435,0,'Sapphire_Quadav','Sapphire Quadav',4,69,72,289.558,40.808,69.111,69);
 INSERT INTO `mob_spawn_points` VALUES (17383436,0,'Darksteel_Quadav','Darksteel Quadav',2,69,72,271.269,41.748,65.587,127);
