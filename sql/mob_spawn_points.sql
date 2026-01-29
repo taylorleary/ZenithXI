@@ -39885,7 +39885,7 @@ INSERT INTO `mob_spawn_points` VALUES (17244368,0,'Sand_Beetle','Sand Beetle',8,
 INSERT INTO `mob_spawn_points` VALUES (17244369,0,'Antican_Speculator','Antican Speculator',24,44,49,-21.492,0.278,-276.466,82);
 INSERT INTO `mob_spawn_points` VALUES (17244370,0,'Antican_Speculator','Antican Speculator',24,44,49,3.378,0.233,-248.304,109);
 INSERT INTO `mob_spawn_points` VALUES (17244371,0,'Antican_Sagittarius','Antican Sagittarius',23,44,49,1.629,-0.492,-242.412,25);
-INSERT INTO `mob_spawn_points` VALUES (17244372,0,'Centurio_XII-I','Centurio XII-I',27,56,56,-44.353,-0.433,-243.704,127);
+INSERT INTO `mob_spawn_points` VALUES (17244372,0,'Centurio_XII-I','Centurio XII-I',27,56,57,-44.353,-0.433,-243.704,127);
 INSERT INTO `mob_spawn_points` VALUES (17244373,0,'Antican_Decurio','Antican Decurio',64,44,49,-71.918,-12.450,176.819,127);
 INSERT INTO `mob_spawn_points` VALUES (17244374,0,'Antican_Speculator','Antican Speculator',65,44,49,-8.032,0.027,-237.818,105);
 INSERT INTO `mob_spawn_points` VALUES (17244375,0,'Sand_Beetle','Sand Beetle',8,36,40,-77.198,4.659,-225.729,104);
