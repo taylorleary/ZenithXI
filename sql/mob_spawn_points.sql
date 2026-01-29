@@ -61072,7 +61072,7 @@ INSERT INTO `mob_spawn_points` VALUES (17490230,0,'Mimic','Mimic',34,60,60,1.000
 INSERT INTO `mob_spawn_points` VALUES (17490231,0,'Cancer','Cancer',35,65,65,-21.291,-10.899,-147.523,35);
 INSERT INTO `mob_spawn_points` VALUES (17490232,0,'Robber_Crab','Robber Crab',36,60,63,-21.291,-10.899,-147.523,35);
 INSERT INTO `mob_spawn_points` VALUES (17490233,0,'Phantom_Worm','Phantom Worm',37,70,72,76.943,29.916,118.854,0);
-INSERT INTO `mob_spawn_points` VALUES (17490234,0,'Guivre','Guivre',38,82,83,119.000,-0.010,38.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17490234,0,'Guivre','Guivre',38,84,84,119.000,-0.010,38.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17490235,0,'Kettenkaefer','Kettenkaefer',39,80,80,204.052,10.250,96.414,223);
 INSERT INTO `mob_spawn_points` VALUES (17490236,0,'Tangaroa','Tangaroa',40,96,97,-48.532,0.001,39.542,149);
 INSERT INTO `mob_spawn_points` VALUES (17490237,0,'Koura','Koura',41,92,93,-42.900,-0.026,44.017,128);
