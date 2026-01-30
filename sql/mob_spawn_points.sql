@@ -45758,9 +45758,9 @@ INSERT INTO `mob_spawn_points` VALUES (17297442,0,'Thunder_Elemental','Thunder E
 INSERT INTO `mob_spawn_points` VALUES (17297443,0,'Thunder_Elemental','Thunder Elemental',3,48,50,-270.475,-20.439,75.426,67);
 INSERT INTO `mob_spawn_points` VALUES (17297444,0,'Light_Elemental','Light Elemental',4,48,50,-209.248,-19.929,61.437,57);
 INSERT INTO `mob_spawn_points` VALUES (17297445,0,'Light_Elemental','Light Elemental',4,48,50,-248.852,-20.733,87.634,36);
-INSERT INTO `mob_spawn_points` VALUES (17297446,0,'Picklix_Longindex','Picklix Longindex',11,60,60,212.000,3.000,-77.000,93);
-INSERT INTO `mob_spawn_points` VALUES (17297447,0,'Moxnix_Nightgoggle','Moxnix Nightgoggle',12,58,58,212.000,3.000,-78.000,93);
-INSERT INTO `mob_spawn_points` VALUES (17297448,0,'Doglix_Muttsnout','Doglix Muttsnout',13,58,58,212.000,3.000,-79.000,93);
+INSERT INTO `mob_spawn_points` VALUES (17297446,0,'Picklix_Longindex','Picklix Longindex',11,60,60,208.678,4.415,-81.035,93);
+INSERT INTO `mob_spawn_points` VALUES (17297447,0,'Moxnix_Nightgoggle','Moxnix Nightgoggle',12,58,58,204.199,4.025,-78.000,93);
+INSERT INTO `mob_spawn_points` VALUES (17297448,0,'Doglix_Muttsnout','Doglix Muttsnout',13,58,58,210.899,4.138,-81.648,93);
 INSERT INTO `mob_spawn_points` VALUES (17297449,0,'Ancient_Weapon','Ancient Weapon',14,66,66,-77.000,-4.000,-92.000,170);
 INSERT INTO `mob_spawn_points` VALUES (17297450,0,'Legendary_Weapon','Legendary Weapon',15,65,65,-75.000,-4.000,-92.000,170);
 INSERT INTO `mob_spawn_points` VALUES (17297451,0,'Gudanna','Gudanna',16,55,60,-279.065,-20.484,-0.456,18);
@@ -51590,7 +51590,7 @@ INSERT INTO `mob_spawn_points` VALUES (17363314,98,'Brass_Quadav','Brass Quadav'
 INSERT INTO `mob_spawn_points` VALUES (17363315,99,'Old_Quadav','Old Quadav',20,21,23,91.658,-36.179,-140.044,89);
 INSERT INTO `mob_spawn_points` VALUES (17363316,99,'Copper_Quadav','Copper Quadav',21,21,23,97.000,-37.326,-150.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17363317,99,'Brass_Quadav','Brass Quadav',23,21,23,87.000,-35.000,-132.000,45);
-INSERT INTO `mob_spawn_points` VALUES (17363318,0,'NiGhu_Nestfender','Ni\'Ghu Nestfender',25,58,58,14.000,-31.000,-94.000,16);
+INSERT INTO `mob_spawn_points` VALUES (17363318,0,'NiGhu_Nestfender','Ni\'Ghu Nestfender',25,53,53,14.000,-31.000,-94.000,16);
 INSERT INTO `mob_spawn_points` VALUES (17363319,0,'Incensed_Pineapple','Incensed Pineapple',26,0,0,18.790,-32.401,80.129,63);
 
 -- Cornelia's Call to Action
