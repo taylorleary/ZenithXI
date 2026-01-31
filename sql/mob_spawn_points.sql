@@ -66984,7 +66984,7 @@ INSERT INTO `mob_spawn_points` VALUES (17568136,0,'Gerwitzs_Sword','Gerwitz\'s S
 INSERT INTO `mob_spawn_points` VALUES (17568137,0,'Gerwitzs_Soul','Gerwitz\'s Soul',48,54,54,-132.500,-28.430,-246.920,36);
 INSERT INTO `mob_spawn_points` VALUES (17568138,0,'Necroplasm','Necroplasm',49,37,37,-91.090,31.725,161.143,244);
 INSERT INTO `mob_spawn_points` VALUES (17568139,0,'Air_Elemental','Air Elemental',50,75,75,-297.236,26.926,-100.298,0);
-INSERT INTO `mob_spawn_points` VALUES (17568140,0,'Aroma_Leech','Aroma Leech',53,44,48,1.000,1.000,1.000,20);
+INSERT INTO `mob_spawn_points` VALUES (17568140,0,'Aroma_Leech','Aroma Leech',53,38,38,1.000,1.000,1.000,20);
 INSERT INTO `mob_spawn_points` VALUES (17568141,0,'Metallic_Slime','Metallic Slime',51,34,38,42.219,30.340,430.156,190);
 INSERT INTO `mob_spawn_points` VALUES (17568142,0,'Krabimanjaro','Krabimanjaro',52,95,96,-204.600,32.000,1.540,78);
 INSERT INTO `mob_spawn_points` VALUES (17568143,0,'Krabimanjaro','Krabimanjaro',52,95,96,-116.400,-0.879,228.917,246);
@@ -68036,7 +68036,7 @@ INSERT INTO `mob_spawn_points` VALUES (17580337,0,'Wandering_Ghost','Wandering G
 INSERT INTO `mob_spawn_points` VALUES (17580338,0,'Pudding','Pudding',40,34,34,21.181,-60.100,-20.081,63);
 INSERT INTO `mob_spawn_points` VALUES (17580339,0,'Pudding','Pudding',40,34,34,21.013,-61.157,-19.505,63);
 INSERT INTO `mob_spawn_points` VALUES (17580340,0,'Earth_Elemental','Earth Elemental',41,75,75,220.001,-41.172,257.302,0);
-INSERT INTO `mob_spawn_points` VALUES (17580341,0,'Aroma_Fly','Aroma Fly',42,44,48,1.000,1.000,1.000,20);
+INSERT INTO `mob_spawn_points` VALUES (17580341,0,'Aroma_Fly','Aroma Fly',42,40,40,1.000,1.000,1.000,20);
 INSERT INTO `mob_spawn_points` VALUES (17580342,0,'Lorbulcrud','Lorbulcrud',43,90,92,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17580343,0,'Lorbulcrud','Lorbulcrud',43,90,92,-115.000,-60.452,-100.000,178);
 INSERT INTO `mob_spawn_points` VALUES (17580344,0,'Lorbulcrud','Lorbulcrud',43,90,92,160.000,-40.250,-20.000,121);
@@ -68832,7 +68832,7 @@ INSERT INTO `mob_spawn_points` VALUES (17588701,0,'Wyrmfly','Wyrmfly',40,30,30,1
 INSERT INTO `mob_spawn_points` VALUES (17588702,0,'Wyrmfly','Wyrmfly',40,30,30,143.000,10.000,-216.000,198);
 INSERT INTO `mob_spawn_points` VALUES (17588703,0,'Wyrmfly','Wyrmfly',40,30,30,138.000,9.000,-219.000,198);
 INSERT INTO `mob_spawn_points` VALUES (17588704,0,'Dark_Elemental','Dark Elemental',41,75,75,377.464,18.574,-259.998,0);
-INSERT INTO `mob_spawn_points` VALUES (17588705,0,'Aroma_Crawler','Aroma Crawler',44,44,48,1.000,1.000,1.000,20);
+INSERT INTO `mob_spawn_points` VALUES (17588705,0,'Aroma_Crawler','Aroma Crawler',44,40,40,1.000,1.000,1.000,20);
 INSERT INTO `mob_spawn_points` VALUES (17588706,0,'Lost_Soul','Lost Soul',42,50,50,245.000,19.000,-142.000,125);
 INSERT INTO `mob_spawn_points` VALUES (17588707,0,'Ogbunabali','Ogbunabali',43,94,95,134.000,19.500,-89.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17588708,0,'Ogbunabali','Ogbunabali',43,94,95,0.000,0.000,0.000,0);
