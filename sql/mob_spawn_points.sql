@@ -39019,7 +39019,7 @@ INSERT INTO `mob_spawn_points` VALUES (17235984,0,'Etemmu','Etemmu',3,43,46,426.
 INSERT INTO `mob_spawn_points` VALUES (17235985,0,'Evil_Eye','Evil Eye',4,45,48,315.214,6.887,-195.901,124);
 INSERT INTO `mob_spawn_points` VALUES (17235986,0,'Evil_Eye','Evil Eye',4,45,48,324.648,-0.263,-274.715,127);
 INSERT INTO `mob_spawn_points` VALUES (17235987,0,'Shadow_Dragon','Shadow Dragon',5,52,53,347.000,7.223,-205.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17235988,0,'Biast','Biast',6,70,70,180.000,-19.000,-147.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17235988,0,'Biast','Biast',6,67,67,180.000,-19.000,-147.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17235989,0,'Ice_Elemental','Ice Elemental',7,48,50,383.716,0.619,-186.026,16);
 INSERT INTO `mob_spawn_points` VALUES (17235990,0,'Cursed_Weapon','Cursed Weapon',8,43,45,399.390,0.007,-140.021,127);
 INSERT INTO `mob_spawn_points` VALUES (17235991,0,'Cursed_Weapon','Cursed Weapon',8,43,45,412.379,-0.455,-147.695,127);
