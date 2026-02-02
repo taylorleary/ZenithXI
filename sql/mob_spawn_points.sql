@@ -60567,7 +60567,7 @@ INSERT INTO `mob_spawn_points` VALUES (17486027,0,'Huge_Spider','Huge Spider',7,
 INSERT INTO `mob_spawn_points` VALUES (17486028,7,'Huge_Spider','Huge Spider',7,28,31,-33.446,-6.038,141.987,127);
 INSERT INTO `mob_spawn_points` VALUES (17486029,7,'Huge_Spider','Huge Spider',7,28,31,-54.112,-6.313,137.079,47);
 INSERT INTO `mob_spawn_points` VALUES (17486030,8,'Huge_Spider','Huge Spider',7,28,31,-63.688,-4.529,139.858,253);
-INSERT INTO `mob_spawn_points` VALUES (17486031,0,'Falcatus_Aranei','Falcatus Aranei',17,32,33,-53.000,-4.418,139.000,127);
+INSERT INTO `mob_spawn_points` VALUES (17486031,0,'Falcatus_Aranei','Falcatus Aranei',17,32,32,-53.000,-4.418,139.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17486032,0,'Huge_Spider','Huge Spider',7,28,31,-94.545,-6.095,136.480,127);
 INSERT INTO `mob_spawn_points` VALUES (17486033,0,'Huge_Spider','Huge Spider',7,28,31,-68.852,-5.029,141.069,127);
 INSERT INTO `mob_spawn_points` VALUES (17486034,0,'Huge_Spider','Huge Spider',7,28,31,-79.827,-6.046,133.982,112);
@@ -60665,7 +60665,7 @@ INSERT INTO `mob_spawn_points` VALUES (17486125,0,'Bogy','Bogy',20,30,33,-292.48
 INSERT INTO `mob_spawn_points` VALUES (17486126,0,'Bogy','Bogy',20,30,33,-319.225,-0.146,109.776,127);
 INSERT INTO `mob_spawn_points` VALUES (17486127,0,'Bogy','Bogy',20,30,33,-319.266,-0.244,130.650,127);
 INSERT INTO `mob_spawn_points` VALUES (17486128,0,'Bogy','Bogy',20,30,33,-345.369,0.716,119.486,127);
-INSERT INTO `mob_spawn_points` VALUES (17486129,0,'Dame_Blanche','Dame Blanche',21,37,39,-361.894,-0.500,121.675,5);
+INSERT INTO `mob_spawn_points` VALUES (17486129,0,'Dame_Blanche','Dame Blanche',21,34,35,-361.894,-0.500,121.675,5);
 INSERT INTO `mob_spawn_points` VALUES (17486130,0,'Water_Elemental','Water Elemental',14,32,34,-363.697,-0.346,129.631,79);
 INSERT INTO `mob_spawn_points` VALUES (17486131,0,'Lacerator','Lacerator',18,87,91,-421.000,-11.000,224.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17486132,0,'Lacerator','Lacerator',18,87,91,-459.000,-10.000,269.000,43);
@@ -60726,7 +60726,7 @@ INSERT INTO `mob_spawn_points` VALUES (17486186,0,'Gigass_Spider','Gigas\'s Spid
 INSERT INTO `mob_spawn_points` VALUES (17486187,0,'Korroloka_Leech','Korroloka Leech',28,32,32,-212.000,-9.000,179.000,247);
 INSERT INTO `mob_spawn_points` VALUES (17486188,0,'Korroloka_Leech','Korroloka Leech',28,32,32,-209.000,-9.000,172.000,246);
 INSERT INTO `mob_spawn_points` VALUES (17486189,0,'Korroloka_Leech','Korroloka Leech',28,32,32,-215.000,-10.000,167.000,114);
-INSERT INTO `mob_spawn_points` VALUES (17486190,0,'Morion_Worm','Morion Worm',29,30,32,255.652,-6.039,20.878,0);
+INSERT INTO `mob_spawn_points` VALUES (17486190,0,'Morion_Worm','Morion Worm',29,28,28,255.652,-6.039,20.878,0);
 INSERT INTO `mob_spawn_points` VALUES (17486191,0,'Metallic_Slime','Metallic Slime',30,24,30,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17486192,0,'Goblin_Bounty_Hunter','Goblin Bounty Hunter',31,10,10,-48.364,-4.866,106.168,64);
 INSERT INTO `mob_spawn_points` VALUES (17486193,0,'Goblin_Bounty_Hunter','Goblin Bounty Hunter',31,10,10,-245.600,-5.339,72.159,250);
