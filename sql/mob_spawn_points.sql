@@ -54261,8 +54261,8 @@ INSERT INTO `mob_spawn_points` VALUES (17387963,0,'Orcish_Warchief','Orcish Warc
 INSERT INTO `mob_spawn_points` VALUES (17387964,0,'Orcish_Warchief','Orcish Warchief',32,55,59,173.099,-0.295,-213.957,127);
 INSERT INTO `mob_spawn_points` VALUES (17387965,0,'Gavotvut','Gavotvut',43,45,45,290.000,3.000,-215.000,199);
 INSERT INTO `mob_spawn_points` VALUES (17387966,0,'Barakbok','Barakbok',44,43,43,292.000,3.000,-215.000,199);
-INSERT INTO `mob_spawn_points` VALUES (17387967,0,'Bilopdop','Bilopdop',45,55,55,-123.000,3.000,-43.000,220);
-INSERT INTO `mob_spawn_points` VALUES (17387968,0,'Deloknok','Deloknok',46,53,53,-124.000,3.000,-42.000,220);
+INSERT INTO `mob_spawn_points` VALUES (17387967,0,'Bilopdop','Bilopdop',45,55,55,-122.838,3.765,-44.842,220);
+INSERT INTO `mob_spawn_points` VALUES (17387968,0,'Deloknok','Deloknok',46,53,53,-125.649,4.000,-40.612,220);
 INSERT INTO `mob_spawn_points` VALUES (17387969,0,'Purpleflash_Brukdok','Purpleflash Brukdok',47,45,45,-135.469,-0.091,-184.703,127);
 INSERT INTO `mob_spawn_points` VALUES (17387970,0,'One-eyed_Gwajboj','One-eyed Gwajboj',48,62,62,-36.000,3.000,-211.000,57);
 INSERT INTO `mob_spawn_points` VALUES (17387971,0,'Three-eyed_Prozpuz','Three-eyed Prozpuz',49,60,60,-32.000,4.000,-212.000,71);
@@ -54903,7 +54903,7 @@ INSERT INTO `mob_spawn_points` VALUES (17396136,0,'Yagudos_Avatar','Yagudo\'s Av
 INSERT INTO `mob_spawn_points` VALUES (17396137,0,'Tzee_Xicu_the_Manifest','Tzee Xicu the Manifest',39,85,85,-99.000,-72.000,93.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17396138,0,'Yagudos_Elemental','Yagudo\'s Elemental',8,25,29,1.000,1.000,1.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17396139,0,'Yagudos_Avatar','Yagudo\'s Avatar',38,60,60,1.000,1.000,1.000,0);
-INSERT INTO `mob_spawn_points` VALUES (17396140,0,'Huu_Xalmo_the_Savage','Huu Xalmo the Savage',40,63,63,-97.000,-71.000,-129.000,81);
+INSERT INTO `mob_spawn_points` VALUES (17396140,0,'Huu_Xalmo_the_Savage','Huu Xalmo the Savage',40,63,63,-99.851,-71.750,-127.744,81);
 INSERT INTO `mob_spawn_points` VALUES (17396141,0,'Odontotyrannus','Odontotyrannus',41,52,52,-86.941,23.264,-38.873,213);
 INSERT INTO `mob_spawn_points` VALUES (17396143,0,'Yagudo_Muralist','Yagudo Muralist',42,75,75,185.513,-16.250,-139.871,236);
 INSERT INTO `mob_spawn_points` VALUES (17396144,0,'Mimic','Mimic',43,60,60,1.000,1.000,1.000,0);
@@ -68032,7 +68032,7 @@ INSERT INTO `mob_spawn_points` VALUES (17580333,28,'Wight','Wight',22,30,34,-100
 INSERT INTO `mob_spawn_points` VALUES (17580334,0,'Wight','Wight',22,30,34,-100.000,-28.067,386.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17580335,28,'Ghast','Ghast',37,33,36,-100.749,-27.874,384.046,204);
 INSERT INTO `mob_spawn_points` VALUES (17580336,0,'Banshee','Banshee',36,31,34,60.000,-11.000,407.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17580337,0,'Wandering_Ghost','Wandering Ghost',39,45,45,-177.000,-1.000,371.000,13);
+INSERT INTO `mob_spawn_points` VALUES (17580337,0,'Wandering_Ghost','Wandering Ghost',39,45,45,-168.300,-1.057,366.674,13);
 INSERT INTO `mob_spawn_points` VALUES (17580338,0,'Pudding','Pudding',40,34,34,21.181,-60.100,-20.081,63);
 INSERT INTO `mob_spawn_points` VALUES (17580339,0,'Pudding','Pudding',40,34,34,21.013,-61.157,-19.505,63);
 INSERT INTO `mob_spawn_points` VALUES (17580340,0,'Earth_Elemental','Earth Elemental',41,75,75,220.001,-41.172,257.302,0);
