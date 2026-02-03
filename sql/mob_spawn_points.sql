@@ -54259,8 +54259,8 @@ INSERT INTO `mob_spawn_points` VALUES (17387961,0,'Orcish_Dragoon','Orcish Drago
 INSERT INTO `mob_spawn_points` VALUES (17387962,0,'Orcish_Dreadnought','Orcish Dreadnought',33,63,67,180.656,-0.210,-213.239,30);
 INSERT INTO `mob_spawn_points` VALUES (17387963,0,'Orcish_Warchief','Orcish Warchief',32,55,59,176.161,0.104,-218.530,127);
 INSERT INTO `mob_spawn_points` VALUES (17387964,0,'Orcish_Warchief','Orcish Warchief',32,55,59,173.099,-0.295,-213.957,127);
-INSERT INTO `mob_spawn_points` VALUES (17387965,0,'Gavotvut','Gavotvut',43,45,45,290.000,3.000,-215.000,199);
-INSERT INTO `mob_spawn_points` VALUES (17387966,0,'Barakbok','Barakbok',44,43,43,292.000,3.000,-215.000,199);
+INSERT INTO `mob_spawn_points` VALUES (17387965,0,'Gavotvut','Gavotvut',43,45,45,293.542,3.519,-216.794,199);
+INSERT INTO `mob_spawn_points` VALUES (17387966,0,'Barakbok','Barakbok',44,43,43,289.378,4.142,-214.877,199);
 INSERT INTO `mob_spawn_points` VALUES (17387967,0,'Bilopdop','Bilopdop',45,55,55,-122.838,3.765,-44.842,220);
 INSERT INTO `mob_spawn_points` VALUES (17387968,0,'Deloknok','Deloknok',46,53,53,-125.649,4.000,-40.612,220);
 INSERT INTO `mob_spawn_points` VALUES (17387969,0,'Purpleflash_Brukdok','Purpleflash Brukdok',47,45,45,-135.469,-0.091,-184.703,127);
