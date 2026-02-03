@@ -57342,7 +57342,7 @@ INSERT INTO `mob_spawn_points` VALUES (17433001,0,'Tonberry_Tracker','Tonberry T
 INSERT INTO `mob_spawn_points` VALUES (17433002,0,'Tonberry_Decapitator','Tonberry Decapitator',33,72,74,-165.510,15.833,-116.849,124);
 INSERT INTO `mob_spawn_points` VALUES (17433003,0,'Tonberry_Pontifex','Tonberry Pontifex',35,75,75,-164.725,16.416,-116.191,19);
 INSERT INTO `mob_spawn_points` VALUES (17433004,0,'Tonberry_Tracker','Tonberry Tracker',34,72,74,-188.621,15.588,-100.234,127);
-INSERT INTO `mob_spawn_points` VALUES (17433005,0,'Hakutaku','Hakutaku',36,85,85,24.000,25.000,-306.000,121);
+INSERT INTO `mob_spawn_points` VALUES (17433005,0,'Hakutaku','Hakutaku',36,84,85,24.000,25.000,-306.000,121);
 INSERT INTO `mob_spawn_points` VALUES (17433006,0,'Mokumokuren','Mokumokuren',37,80,82,118.000,36.000,-283.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17433007,0,'Azrael','Azrael',39,0,0,37.509,35.500,-85.849,80);
 INSERT INTO `mob_spawn_points` VALUES (17433008,0,'Azrael','Azrael',39,0,0,25.897,36.303,-196.186,253);
