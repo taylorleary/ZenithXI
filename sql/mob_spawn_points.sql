@@ -5331,7 +5331,7 @@ INSERT INTO `mob_spawn_points` VALUES (16879895,0,'Warder_Thalia','Warder Thalia
 INSERT INTO `mob_spawn_points` VALUES (16879896,0,'Bloody_Coffin','Bloody Coffin',55,50,52,638.262,-0.608,-518.056,84);
 INSERT INTO `mob_spawn_points` VALUES (16879897,0,'Boggelmann','Boggelmann',56,70,70,-310.079,-32.877,181.822,163);
 INSERT INTO `mob_spawn_points` VALUES (16879898,0,'Alsha','Alsha',57,60,60,-155.804,-16.191,644.617,195);
-INSERT INTO `mob_spawn_points` VALUES (16879899,0,'Gration','Gration',58,79,79,111.363,-17.000,30.344,141);
+INSERT INTO `mob_spawn_points` VALUES (16879899,0,'Gration','Gration',58,85,85,111.363,-17.000,30.344,141);
 INSERT INTO `mob_spawn_points` VALUES (16879900,0,'Ziphius','Ziphius',59,60,62,148.401,-16.018,520.438,224);
 INSERT INTO `mob_spawn_points` VALUES (16879901,0,'Tsui-Goab','Tsui-Goab',60,65,65,441.191,-16.321,126.181,250); -- VNM
 INSERT INTO `mob_spawn_points` VALUES (16879902,0,'Bloodswiller_Fly','Bloodswiller Fly',61,0,0,442.637,-15.658,126.849,156);
