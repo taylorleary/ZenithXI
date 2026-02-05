@@ -34863,8 +34863,8 @@ INSERT INTO `mob_spawn_points` VALUES (17199563,0,'Giant_Bat','Giant Bat',31,20,
 INSERT INTO `mob_spawn_points` VALUES (17199564,0,'Golden_Bat','Golden Bat',32,26,27,-810.440,-8.270,33.978,127);
 INSERT INTO `mob_spawn_points` VALUES (17199565,0,'Goblin_Digger','Goblin Digger',33,19,21,-250.989,0.629,-91.871,80);
 INSERT INTO `mob_spawn_points` VALUES (17199566,0,'Marchelute','Marchelute',34,41,41,-720.005,-8.060,75.199,188);
-INSERT INTO `mob_spawn_points` VALUES (17199567,0,'Doman','Doman',35,52,52,-768.000,-4.000,197.000,91);
-INSERT INTO `mob_spawn_points` VALUES (17199568,0,'Onryo','Onryo',36,52,52,-767.000,-4.000,196.000,91);
+INSERT INTO `mob_spawn_points` VALUES (17199567,0,'Doman','Doman',35,52,52,-772.168,-3.599,191.191,91);
+INSERT INTO `mob_spawn_points` VALUES (17199568,0,'Onryo','Onryo',36,52,52,-771.265,-4.000,192.670,91);
 INSERT INTO `mob_spawn_points` VALUES (17199569,0,'Hobgoblin_Warrior','Hobgoblin Warrior',37,30,35,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17199570,0,'Hobgoblin_White_Mage','Hobgoblin White Mage',38,30,35,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17199571,0,'Hobgoblin_Black_Mage','Hobgoblin Black Mage',39,30,35,0.000,0.000,0.000,0);
