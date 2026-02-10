@@ -2448,11 +2448,11 @@ INSERT INTO `mob_spawn_points` VALUES (16822419,0,'Goblin_Doorman','Goblin Doorm
 INSERT INTO `mob_spawn_points` VALUES (16822420,0,'Moblin_Repairman','Moblin Repairman',27,42,44,10.795,7.399,-53.417,102);
 INSERT INTO `mob_spawn_points` VALUES (16822421,0,'Bugbear_Bondman','Bugbear Bondman',23,42,44,-0.920,11.500,-98.408,132);
 INSERT INTO `mob_spawn_points` VALUES (16822422,0,'Bugbear_Bondman','Bugbear Bondman',23,42,44,-0.750,11.500,-101.360,126);
-INSERT INTO `mob_spawn_points` VALUES (16822423,0,'Bugbear_Strongman','Bugbear Strongman',31,50,52,-0.920,11.500,-98.408,22);
+INSERT INTO `mob_spawn_points` VALUES (16822423,0,'Bugbear_Strongman','Bugbear Strongman',31,50,50,-0.920,11.500,-98.408,22);
 INSERT INTO `mob_spawn_points` VALUES (16822424,0,'Goblin_Oilman','Goblin Oilman',29,42,44,29.047,9.399,-118.903,114);
 INSERT INTO `mob_spawn_points` VALUES (16822425,0,'Bugbear_Bondman','Bugbear Bondman',23,42,44,58.367,15.500,-123.264,67);
 INSERT INTO `mob_spawn_points` VALUES (16822426,0,'Bugbear_Bondman','Bugbear Bondman',23,42,44,61.612,15.500,-122.418,80);
-INSERT INTO `mob_spawn_points` VALUES (16822427,0,'Bugbear_Strongman','Bugbear Strongman',31,50,52,61.612,15.500,-122.418,198);
+INSERT INTO `mob_spawn_points` VALUES (16822427,0,'Bugbear_Strongman','Bugbear Strongman',31,50,50,61.612,15.500,-122.418,198);
 INSERT INTO `mob_spawn_points` VALUES (16822428,0,'Goblin_Shovelman','Goblin Shovelman',32,42,44,68.460,15.387,-109.514,8);
 INSERT INTO `mob_spawn_points` VALUES (16822429,0,'Moblin_Repairman','Moblin Repairman',27,42,44,66.254,15.396,-109.277,118);
 INSERT INTO `mob_spawn_points` VALUES (16822430,0,'Goblin_Shovelman','Goblin Shovelman',32,42,44,59.446,11.399,-76.484,128);
@@ -2484,7 +2484,7 @@ INSERT INTO `mob_spawn_points` VALUES (16822455,0,'Earth_Elemental','Earth Eleme
 INSERT INTO `mob_spawn_points` VALUES (16822456,0,'Bugallug','Bugallug',35,45,50,161.97,13.98,-42.19,142);
 INSERT INTO `mob_spawn_points` VALUES (16822457,0,'Moblin_Gurneyman','Moblin Gurneyman',36,46,47,-30.020,7.399,98.798,131);
 INSERT INTO `mob_spawn_points` VALUES (16822458,0,'Moblin_Gurneyman','Moblin Gurneyman',36,46,47,24.439,9.393,-87.126,132);
-INSERT INTO `mob_spawn_points` VALUES (16822459,0,'Goblin_Wolfman','Goblin Wolfman',37,50,55,-150.910,7.499,-251.817,57);
+INSERT INTO `mob_spawn_points` VALUES (16822459,0,'Goblin_Wolfman','Goblin Wolfman',37,50,50,-150.910,7.499,-251.817,57);
 INSERT INTO `mob_spawn_points` VALUES (16822460,0,'Goblin_Preceptor','Goblin Preceptor',38,45,49,-139.278,7.500,151.250,203);
 INSERT INTO `mob_spawn_points` VALUES (16822461,0,'Grimoire_Guru_Grimogek','Grimoire Guru Grimogek',39,80,80,-136.905,7.500,154.819,91);
 INSERT INTO `mob_spawn_points` VALUES (16822462,0,'Dread_Dealing_Dredodak','Dread Dealing Dredodak',40,80,80,-139.853,7.500,150.096,207);
