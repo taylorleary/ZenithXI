@@ -31955,7 +31955,7 @@ INSERT INTO `mob_spawn_points` VALUES (17179265,0,'Gugalanna','Gugalanna',154,92
 -- ------------------------------------------------------------
 
 -- Fished
-INSERT INTO `mob_spawn_points` VALUES (17182721,0,'Odontotyrannus','Odontotyrannus',1,66,70,1.000,1.000,1.000,0);
+INSERT INTO `mob_spawn_points` VALUES (17182721,0,'Odontotyrannus','Odontotyrannus',1,52,52,1.000,1.000,1.000,0);
 
 INSERT INTO `mob_spawn_points` VALUES (17182722,0,'Yagudo_Sentinel','Yagudo Sentinel',2,76,79,-178.082,-0.249,47.347,182);
 INSERT INTO `mob_spawn_points` VALUES (17182723,0,'Yagudo_Knight_Templar','Yagudo Knight Templar',3,76,79,-179.645,-0.245,12.605,42);
@@ -68341,7 +68341,7 @@ INSERT INTO `mob_spawn_points` VALUES (17584421,0,'Knight_Crawler','Knight Crawl
 INSERT INTO `mob_spawn_points` VALUES (17584422,0,'Knight_Crawler','Knight Crawler',25,60,63,-255.251,-1.511,254.356,182);
 INSERT INTO `mob_spawn_points` VALUES (17584423,0,'Fire_Elemental','Fire Elemental',20,52,54,-230.998,-1.499,217.899,50);
 INSERT INTO `mob_spawn_points` VALUES (17584424,0,'Water_Elemental','Water Elemental',21,52,54,-241.676,-0.366,193.061,185);
-INSERT INTO `mob_spawn_points` VALUES (17584425,0,'Dreadbug','Dreadbug',37,52,52,-22.344,-9.503,122.874,253);
+INSERT INTO `mob_spawn_points` VALUES (17584425,0,'Dreadbug','Dreadbug',37,52,52,-26.050,-10.932,122.323,253);
 INSERT INTO `mob_spawn_points` VALUES (17584426,0,'Mimic','Mimic',38,55,55,1.000,1.000,1.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17584427,0,'Water_Elemental','Water Elemental',39,75,75,216.350,-0.535,-340.001,0);
 INSERT INTO `mob_spawn_points` VALUES (17584428,0,'Mellonia','Mellonia',40,94,95,58.403,-0.829,258.992,110);
