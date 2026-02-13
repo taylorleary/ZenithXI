@@ -1220,12 +1220,12 @@ INSERT INTO `mob_spawn_points` VALUES (16801838,0,'Snow_Devil_blm','Snow Devil',
 INSERT INTO `mob_spawn_points` VALUES (16801839,0,'Snow_Devil_blm','Snow Devil',9,78,78,-615.000,0.000,219.000,64);
 
 -- Brothers
-INSERT INTO `mob_spawn_points` VALUES (16801841,0,'Eldertaur','Eldertaur',5,75,75,-464.000,0.602,902.000,64);
-INSERT INTO `mob_spawn_points` VALUES (16801842,0,'Mindertaur','Mindertaur',6,75,75,-456.000,0.453,902.000,64);
-INSERT INTO `mob_spawn_points` VALUES (16801844,0,'Eldertaur','Eldertaur',5,75,75,-224.000,0.602,502.000,64);
-INSERT INTO `mob_spawn_points` VALUES (16801845,0,'Mindertaur','Mindertaur',6,75,75,-216.000,0.453,502.000,64);
-INSERT INTO `mob_spawn_points` VALUES (16801847,0,'Eldertaur','Eldertaur',5,75,75,-624.000,0.602,222.000,64);
-INSERT INTO `mob_spawn_points` VALUES (16801848,0,'Mindertaur','Mindertaur',6,75,75,-616.000,0.453,222.000,64);
+INSERT INTO `mob_spawn_points` VALUES (16801841,0,'Eldertaur','Eldertaur',5,80,80,-464.000,0.602,902.000,64);
+INSERT INTO `mob_spawn_points` VALUES (16801842,0,'Mindertaur','Mindertaur',6,80,80,-456.000,0.453,902.000,64);
+INSERT INTO `mob_spawn_points` VALUES (16801844,0,'Eldertaur','Eldertaur',5,80,80,-224.000,0.602,502.000,64);
+INSERT INTO `mob_spawn_points` VALUES (16801845,0,'Mindertaur','Mindertaur',6,80,80,-216.000,0.453,502.000,64);
+INSERT INTO `mob_spawn_points` VALUES (16801847,0,'Eldertaur','Eldertaur',5,80,80,-624.000,0.602,222.000,64);
+INSERT INTO `mob_spawn_points` VALUES (16801848,0,'Mindertaur','Mindertaur',6,80,80,-616.000,0.453,222.000,64);
 
 -- Holy Cow
 INSERT INTO `mob_spawn_points` VALUES (16801850,0,'Apis','Apis',7,81,81,-460.403,0.423,902.468,62);
