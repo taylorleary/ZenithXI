@@ -69685,7 +69685,7 @@ INSERT INTO `mob_spawn_points` VALUES (17613124,0,'Droma','Droma',21,54,56,-172.
 INSERT INTO `mob_spawn_points` VALUES (17613125,0,'Droma','Droma',21,54,56,-187.700,-16.110,7.022,61);
 INSERT INTO `mob_spawn_points` VALUES (17613126,0,'Underworld_Bats','Underworld Bats',19,50,52,-218.200,-16.110,77.000,6);
 INSERT INTO `mob_spawn_points` VALUES (17613127,0,'Underworld_Bats','Underworld Bats',19,50,52,-218.100,-16.050,59.667,57);
-INSERT INTO `mob_spawn_points` VALUES (17613128,0,'Dabotzs_Ghost','Dabotz\'s Ghost',38,53,53,-169.600,-1.340,247.677,31);
+INSERT INTO `mob_spawn_points` VALUES (17613128,0,'Dabotzs_Ghost','Dabotz\'s Ghost',38,53,53,-169.991,3.060,249.480,31);
 INSERT INTO `mob_spawn_points` VALUES (17613129,0,'Capricious_Cassie','Capricious Cassie',39,70,70,-77.430,0.462,164.529,145);
 INSERT INTO `mob_spawn_points` VALUES (17613130,0,'Orientalis_Shadow','Orientalis Shadow',40,128,128,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17613131,0,'Borealis_Shadow','Borealis Shadow',41,128,128,0.000,0.000,0.000,0);
