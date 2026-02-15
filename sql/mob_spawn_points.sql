@@ -39236,7 +39236,7 @@ INSERT INTO `mob_spawn_points` VALUES (17236201,0,'Chaos_Elemental','Chaos Eleme
 INSERT INTO `mob_spawn_points` VALUES (17236202,0,'Boreal_Hound','Boreal Hound',26,53,53,-22.162,-24.674,-495.609,127);
 INSERT INTO `mob_spawn_points` VALUES (17236203,0,'Boreal_Coeurl','Boreal Coeurl',27,53,53,583.522,-8.858,295.294,64);
 INSERT INTO `mob_spawn_points` VALUES (17236204,0,'Boreal_Tiger','Boreal Tiger',28,53,53,342.267,-28.927,373.998,64);
-INSERT INTO `mob_spawn_points` VALUES (17236205,0,'Koenigstiger','Koenigstiger',29,63,63,-293.000,-22.000,146.000,194);
+INSERT INTO `mob_spawn_points` VALUES (17236205,0,'Koenigstiger','Koenigstiger',29,63,63,-296.000,-25.054,151.250,194);
 INSERT INTO `mob_spawn_points` VALUES (17236206,0,'Hobgoblin_Warrior','Hobgoblin Warrior',30,50,55,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17236207,0,'Hobgoblin_White_Mage','Hobgoblin White Mage',31,50,55,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17236208,0,'Hobgoblin_Black_Mage','Hobgoblin Black Mage',32,50,55,0.000,0.000,0.000,0);
