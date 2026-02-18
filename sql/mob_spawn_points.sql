@@ -69068,7 +69068,7 @@ INSERT INTO `mob_spawn_points` VALUES (17596639,0,'Vault_Weapon','Vault Weapon',
 INSERT INTO `mob_spawn_points` VALUES (17596640,0,'Vault_Weapon','Vault Weapon',31,59,62,-280.000,18.000,179.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17596641,0,'Tainted_Flesh','Tainted Flesh',27,63,65,-20.609,5.673,80.024,127);
 INSERT INTO `mob_spawn_points` VALUES (17596642,0,'Tainted_Flesh','Tainted Flesh',27,63,65,16.000,7.000,11.000,127);
-INSERT INTO `mob_spawn_points` VALUES (17596643,0,'Guardian_Statue','Guardian Statue',37,61,61,-164.000,-1.000,231.000,71);
+INSERT INTO `mob_spawn_points` VALUES (17596643,0,'Guardian_Statue','Guardian Statue',37,61,61,-168.000,0.000,230.000,34);
 INSERT INTO `mob_spawn_points` VALUES (17596644,0,'Warden_Beetle','Warden Beetle',35,92,96,-291.276,19.608,270.227,127);
 INSERT INTO `mob_spawn_points` VALUES (17596645,0,'Warden_Beetle','Warden Beetle',35,92,96,-235.000,19.000,265.000,127);
 INSERT INTO `mob_spawn_points` VALUES (17596646,0,'Warden_Beetle','Warden Beetle',35,92,96,-355.439,19.147,284.329,3);
