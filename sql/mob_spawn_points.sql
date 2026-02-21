@@ -45248,7 +45248,7 @@ INSERT INTO `mob_spawn_points` VALUES (17289571,0,'Fallen_Knight','Fallen Knight
 INSERT INTO `mob_spawn_points` VALUES (17289572,0,'Lich','Lich',25,49,53,-272.617,-0.332,-601.923,127);
 INSERT INTO `mob_spawn_points` VALUES (17289573,0,'Tulwar_Scorpion','Tulwar Scorpion',11,53,56,-207.000,-0.200,-670.912,127);
 INSERT INTO `mob_spawn_points` VALUES (17289574,0,'Earth_Elemental','Earth Elemental',9,56,58,-241.884,-0.612,-672.500,40);
-INSERT INTO `mob_spawn_points` VALUES (17289575,0,'King_Vinegarroon','King Vinegarroon',26,80,85,-239.000,-0.226,-650.000,11);
+INSERT INTO `mob_spawn_points` VALUES (17289575,0,'King_Vinegarroon','King Vinegarroon',26,80,80,-239.000,-0.226,-650.000,11);
 INSERT INTO `mob_spawn_points` VALUES (17289576,0,'Desert_Beetle','Desert Beetle',12,47,51,-451.761,-0.547,-683.411,127);
 INSERT INTO `mob_spawn_points` VALUES (17289577,0,'Desert_Beetle','Desert Beetle',12,47,51,-519.456,-0.383,-516.895,92);
 INSERT INTO `mob_spawn_points` VALUES (17289578,0,'Cactuar','Cactuar',10,48,53,-478.142,-0.457,-596.091,127);
