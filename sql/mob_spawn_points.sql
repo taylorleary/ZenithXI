@@ -15140,9 +15140,9 @@ INSERT INTO `mob_spawn_points` VALUES (17051670,0,'Phantom_Puk_Clone','Phantom P
 INSERT INTO `mob_spawn_points` VALUES (17051671,0,'Phantom_Puk_Clone','Phantom Puk',2,76,76,-240,48,-240,156);
 
 -- The Beast Within
-INSERT INTO `mob_spawn_points` VALUES (17051673,0,'Raubahn','Raubahn',3,75,75,240.000,-32.000,240.000,161);
-INSERT INTO `mob_spawn_points` VALUES (17051674,0,'Raubahn','Raubahn',3,75,75,0.000,0.000,0.000,0);
-INSERT INTO `mob_spawn_points` VALUES (17051675,0,'Raubahn','Raubahn',3,75,75,0.000,0.000,0.000,0);
+INSERT INTO `mob_spawn_points` VALUES (17051673,0,'Raubahn','Raubahn',3,70,70,240,-32,240,161);
+INSERT INTO `mob_spawn_points` VALUES (17051674,0,'Raubahn','Raubahn',3,70,70,0,8,0,161);
+INSERT INTO `mob_spawn_points` VALUES (17051675,0,'Raubahn','Raubahn',3,70,70,-240,48,-240,161);
 
 -- Moment of Truth
 INSERT INTO `mob_spawn_points` VALUES (17051676,0,'Shadowhand_Kajeel_Ja','Shadowhand Kajeel Ja',4,75,75,0.000,0.000,0.000,0);
