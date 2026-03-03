@@ -12269,8 +12269,8 @@ INSERT INTO `mob_spawn_points` VALUES (16998545,0,'Reserve_Draugar','Reserve Dra
 INSERT INTO `mob_spawn_points` VALUES (16998546,0,'Reserve_Draugar','Reserve Draugar',13,72,73,-87.614,-2.603,364.611,13);
 INSERT INTO `mob_spawn_points` VALUES (16998547,0,'Jnun','Jnun',19,77,80,-135.643,-5.825,376.026,43);
 INSERT INTO `mob_spawn_points` VALUES (16998548,0,'Merrow_Chantress','Merrow Chantress',9,73,75,-156.152,-9.749,409.965,177);
-INSERT INTO `mob_spawn_points` VALUES (16998549,0,'Phasma','Phasma',12,73,74,-153.688,-9.750,410.645,164);
-INSERT INTO `mob_spawn_points` VALUES (16998550,0,'Bhoot','Bhoot',34,80,82,-157.674,-5.093,364.663,29);
+INSERT INTO `mob_spawn_points` VALUES (16998549,1,'Phasma','Phasma',12,73,74,-153.688,-9.750,410.645,164);
+INSERT INTO `mob_spawn_points` VALUES (16998550,1,'Bhoot','Bhoot',34,80,82,-157.674,-5.093,364.663,29);
 INSERT INTO `mob_spawn_points` VALUES (16998551,0,'Phasma','Phasma',12,73,74,-130.481,-10.000,434.866,167);
 INSERT INTO `mob_spawn_points` VALUES (16998552,0,'Merrow_Shadowdancer','Merrow Shadowdancer',31,73,75,-101.676,-4.227,425.811,216);
 INSERT INTO `mob_spawn_points` VALUES (16998553,0,'Reserve_Draugar','Reserve Draugar',8,72,73,-106.043,-3.982,419.083,221);
@@ -12427,8 +12427,8 @@ INSERT INTO `mob_spawn_points` VALUES (16998703,0,'Lamia_Toxophilite','Lamia Tox
 INSERT INTO `mob_spawn_points` VALUES (16998704,0,'Seneschal_Imp','Seneschal Imp',58,77,78,500.061,-7.934,453.926,21);
 INSERT INTO `mob_spawn_points` VALUES (16998705,0,'Seneschal_Imp','Seneschal Imp',58,77,78,500.651,-8.034,460.968,166);
 INSERT INTO `mob_spawn_points` VALUES (16998706,0,'Phasma','Phasma',12,73,74,542.821,-7.383,500.978,29);
-INSERT INTO `mob_spawn_points` VALUES (16998707,0,'Phasma','Phasma',12,73,74,542.961,-7.376,499.831,220);
-INSERT INTO `mob_spawn_points` VALUES (16998708,0,'Bhoot','Bhoot',34,80,82,0.000,0.000,0.000,0);
+INSERT INTO `mob_spawn_points` VALUES (16998707,2,'Phasma','Phasma',12,73,74,542.961,-7.376,499.831,220);
+INSERT INTO `mob_spawn_points` VALUES (16998708,2,'Bhoot','Bhoot',34,80,82,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (16998709,0,'Lamia_Idolater','Lamia Idolater',54,80,82,552.397,-7.933,461.480,127);
 INSERT INTO `mob_spawn_points` VALUES (16998710,0,'Merrow_Typhoondancer','Merrow Typhoondancer',98,81,83,-472.506,-7.281,203.831,179);
 INSERT INTO `mob_spawn_points` VALUES (16998711,0,'Merrow_Songstress','Merrow Songstress',49,81,83,-471.002,-10.034,223.183,52);
