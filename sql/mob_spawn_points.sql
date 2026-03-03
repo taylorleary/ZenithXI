@@ -13021,9 +13021,9 @@ INSERT INTO `mob_spawn_points` VALUES (17010720,0,'Valkeng','Valkeng',9,60,60,0.
 INSERT INTO `mob_spawn_points` VALUES (17010721,0,'Valkeng','Valkeng',9,60,60,0.000,0.000,0.000,0);
 
 -- Quest: Breaking the Bonds of Fate
-INSERT INTO `mob_spawn_points` VALUES (17010722,0,'Qultada','Qultada',10,70,70,0.000,0.000,0.000,0);
-INSERT INTO `mob_spawn_points` VALUES (17010723,0,'Qultada','Qultada',10,70,70,0.000,0.000,0.000,0);
-INSERT INTO `mob_spawn_points` VALUES (17010724,0,'Qultada','Qultada',10,70,70,0.000,0.000,0.000,0);
+INSERT INTO `mob_spawn_points` VALUES (17010722,0,'Qultada','Qultada',10,70,70,-180,39.5,185,65);
+INSERT INTO `mob_spawn_points` VALUES (17010723,0,'Qultada','Qultada',10,70,70,20,-0.5,185,65);
+INSERT INTO `mob_spawn_points` VALUES (17010724,0,'Qultada','Qultada',10,70,70,220,-40.5,185,65);
 
 -- ToAU35: Legacy of the Lost
 INSERT INTO `mob_spawn_points` VALUES (17010725,0,'Gessho','Gessho',11,80,80,-180.000,39.080,180.000,64);
