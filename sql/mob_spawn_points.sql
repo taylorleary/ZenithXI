@@ -20735,7 +20735,7 @@ INSERT INTO `mob_spawn_points` VALUES (17101141,0,'Dark_Esquire','Dark Esquire',
 INSERT INTO `mob_spawn_points` VALUES (17101142,0,'Dark_Esquire','Dark Esquire',50,76,76,332.531,-15.760,-404.727,84);
 INSERT INTO `mob_spawn_points` VALUES (17101143,0,'Peallaidh','Peallaidh',51,73,75,279.313,-16.214,-390.119,69);
 INSERT INTO `mob_spawn_points` VALUES (17101144,0,'Zikko','Zikko',52,80,80,-613.174,13.337,-180.725,205);
-INSERT INTO `mob_spawn_points` VALUES (17101145,0,'Caedarva_Toad','Caedarva Toad',53,63,65,136.189,-0.100,-626.997,240);
+INSERT INTO `mob_spawn_points` VALUES (17101145,0,'Caedarva_Toad','Caedarva Toad',53,45,45,136.189,-0.100,-626.997,240);
 INSERT INTO `mob_spawn_points` VALUES (17101146,0,'Jazaraat','Jazaraat',54,67,70,-388.900,7.191,-570.690,227);
 INSERT INTO `mob_spawn_points` VALUES (17101147,0,'Ravin_Raven','Ravin Raven',55,63,65,0.000,0.000,0.000,0);
 INSERT INTO `mob_spawn_points` VALUES (17101148,0,'Lamia_No27','Lamia No.27',56,79,81,454.931,-7.000,-270.619,104);
