@@ -2253,27 +2253,27 @@ INSERT INTO `mob_spawn_points` VALUES (16818200,0,'Pasuk','Pasuk',3,45,45,0,24,0
 INSERT INTO `mob_spawn_points` VALUES (16818202,0,'Pasuk','Pasuk',3,45,45,280,64,-275,64);
 
 -- Waking Dreams
-INSERT INTO `mob_spawn_points` VALUES (16818204,0,'Diabolos_WD','Diabolos_WD',4,80,82,-239.679,-32.500,289.431,68);
-INSERT INTO `mob_spawn_points` VALUES (16818205,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-243.367,-17.244,290.055,139);
-INSERT INTO `mob_spawn_points` VALUES (16818206,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-233.889,-17.245,279.957,36);
-INSERT INTO `mob_spawn_points` VALUES (16818207,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-239.323,-17.227,280.312,63);
-INSERT INTO `mob_spawn_points` VALUES (16818208,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-244.794,-17.244,286.114,72);
-INSERT INTO `mob_spawn_points` VALUES (16818209,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-239.666,-17.244,289.353,197);
-INSERT INTO `mob_spawn_points` VALUES (16818210,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-234.289,-17.248,286.192,56);
-INSERT INTO `mob_spawn_points` VALUES (16818211,0,'Diabolos_WD','Diabolos_WD',4,80,82,0.311,7.502,9.383,68);
-INSERT INTO `mob_spawn_points` VALUES (16818212,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-3.377,22.758,10.007,139);
-INSERT INTO `mob_spawn_points` VALUES (16818213,0,'Diremite_Dominator','Diremite Dominator',5,78,78,6.101,22.757,-0.091,36);
-INSERT INTO `mob_spawn_points` VALUES (16818214,0,'Diremite_Dominator','Diremite Dominator',5,78,78,0.667,22.775,0.264,63);
-INSERT INTO `mob_spawn_points` VALUES (16818215,0,'Diremite_Dominator','Diremite Dominator',5,78,78,-4.804,22.758,6.066,72);
-INSERT INTO `mob_spawn_points` VALUES (16818216,0,'Diremite_Dominator','Diremite Dominator',5,78,78,0.324,22.758,9.305,197);
-INSERT INTO `mob_spawn_points` VALUES (16818217,0,'Diremite_Dominator','Diremite Dominator',5,78,78,5.701,22.754,6.144,56);
-INSERT INTO `mob_spawn_points` VALUES (16818218,0,'Diabolos_WD','Diabolos_WD',4,80,82,280.488,47.507,-270.633,68);
-INSERT INTO `mob_spawn_points` VALUES (16818219,0,'Diremite_Dominator','Diremite Dominator',5,78,78,276.800,62.763,-270.009,139);
-INSERT INTO `mob_spawn_points` VALUES (16818220,0,'Diremite_Dominator','Diremite Dominator',5,78,78,286.278,62.762,-280.107,36);
-INSERT INTO `mob_spawn_points` VALUES (16818221,0,'Diremite_Dominator','Diremite Dominator',5,78,78,280.844,62.780,-279.752,63);
-INSERT INTO `mob_spawn_points` VALUES (16818222,0,'Diremite_Dominator','Diremite Dominator',5,78,78,275.373,62.763,-273.950,72);
-INSERT INTO `mob_spawn_points` VALUES (16818223,0,'Diremite_Dominator','Diremite Dominator',5,78,78,280.501,62.763,-270.711,197);
-INSERT INTO `mob_spawn_points` VALUES (16818224,0,'Diremite_Dominator','Diremite Dominator',5,78,78,285.878,62.759,-273.872,56);
+INSERT INTO `mob_spawn_points` VALUES (16818204,0,'Diabolos_WD','Diabolos_WD',4,83,83,-239.679,-32.500,289.431,68);
+INSERT INTO `mob_spawn_points` VALUES (16818205,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-243.367,-17.244,290.055,139);
+INSERT INTO `mob_spawn_points` VALUES (16818206,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-233.889,-17.245,279.957,36);
+INSERT INTO `mob_spawn_points` VALUES (16818207,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-239.323,-17.227,280.312,63);
+INSERT INTO `mob_spawn_points` VALUES (16818208,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-244.794,-17.244,286.114,72);
+INSERT INTO `mob_spawn_points` VALUES (16818209,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-239.666,-17.244,289.353,197);
+INSERT INTO `mob_spawn_points` VALUES (16818210,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-234.289,-17.248,286.192,56);
+INSERT INTO `mob_spawn_points` VALUES (16818211,0,'Diabolos_WD','Diabolos_WD',4,83,83,0.311,7.502,9.383,68);
+INSERT INTO `mob_spawn_points` VALUES (16818212,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-3.377,22.758,10.007,139);
+INSERT INTO `mob_spawn_points` VALUES (16818213,0,'Diremite_Dominator','Diremite Dominator',5,73,75,6.101,22.757,-0.091,36);
+INSERT INTO `mob_spawn_points` VALUES (16818214,0,'Diremite_Dominator','Diremite Dominator',5,73,75,0.667,22.775,0.264,63);
+INSERT INTO `mob_spawn_points` VALUES (16818215,0,'Diremite_Dominator','Diremite Dominator',5,73,75,-4.804,22.758,6.066,72);
+INSERT INTO `mob_spawn_points` VALUES (16818216,0,'Diremite_Dominator','Diremite Dominator',5,73,75,0.324,22.758,9.305,197);
+INSERT INTO `mob_spawn_points` VALUES (16818217,0,'Diremite_Dominator','Diremite Dominator',5,73,75,5.701,22.754,6.144,56);
+INSERT INTO `mob_spawn_points` VALUES (16818218,0,'Diabolos_WD','Diabolos_WD',4,83,83,280.488,47.507,-270.633,68);
+INSERT INTO `mob_spawn_points` VALUES (16818219,0,'Diremite_Dominator','Diremite Dominator',5,73,75,276.800,62.763,-270.009,139);
+INSERT INTO `mob_spawn_points` VALUES (16818220,0,'Diremite_Dominator','Diremite Dominator',5,73,75,286.278,62.762,-280.107,36);
+INSERT INTO `mob_spawn_points` VALUES (16818221,0,'Diremite_Dominator','Diremite Dominator',5,73,75,280.844,62.780,-279.752,63);
+INSERT INTO `mob_spawn_points` VALUES (16818222,0,'Diremite_Dominator','Diremite Dominator',5,73,75,275.373,62.763,-273.950,72);
+INSERT INTO `mob_spawn_points` VALUES (16818223,0,'Diremite_Dominator','Diremite Dominator',5,73,75,280.501,62.763,-270.711,197);
+INSERT INTO `mob_spawn_points` VALUES (16818224,0,'Diremite_Dominator','Diremite Dominator',5,73,75,285.878,62.759,-273.872,56);
 
 -- *Waking Dreams (HTMBF)
 INSERT INTO `mob_spawn_points` VALUES (16818225,0,'Diabolos','Diabolos',6,99,99,-236.512,-32.500,280.998,63);
